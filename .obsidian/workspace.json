@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-17.md",
+                "file": "Welcome to Reor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-17.md",
+                "file": "Welcome to Reor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-17.md",
+                "file": "Welcome to Reor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-17.md"
+                "file": "Welcome to Reor.md"
               }
             }
           },
@@ -155,11 +155,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf5950258bbe54f",
+  "active": "573ad995c2800b52",
   "lastOpenFiles": [
+    "Fin-Ops Notes/A Path Forward.md",
+    "2024-09-17.md",
+    "Fin-Ops Notes/The Value of FinOps.md",
+    "Fin-Ops Notes/The Iron Triangle.md",
+    "Fin-Ops Notes/The Cloud Bill.md",
+    "Fin-Ops Notes/Sustainability.md",
+    "Fin-Ops Notes/Partnerships.md",
+    "Fin-Ops Notes/Optimizations.md",
+    "Fin-Ops Notes/Glossary of Terms.md",
+    "Fin-Ops Notes/Getting Started with Automation.md",
+    "Fin-Ops Notes/FOCUS.md",
+    "Fin-Ops Notes/Fin Ops.md",
+    "Fin-Ops Notes/Data-Driven Decision Making.md",
+    "Fin-Ops Notes/Data Sources.md",
+    "Fin-Ops Notes/Cloud Journey for Organizations.md",
+    "Fin-Ops Notes/Automations Working Together.md",
+    "Fin-Ops Notes/Automation.md",
+    "Fin-Ops Notes/Images/Pasted image 20240809143623.png",
+    "Fin-Ops Notes/Images/Pasted image 20240808135534.png",
+    "Fin-Ops Notes/Images",
+    "Fin-Ops Notes",
+    "Welcome to Reor.md",
     "Archive",
     "Untitled.md",
-    "2024-09-17.md",
     "New notes.md"
   ]
 }
