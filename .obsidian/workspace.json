@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Reor.md",
+                "file": "2024-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Reor.md",
+                "file": "2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Reor.md",
+                "file": "2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Reor.md"
+                "file": "2024-09-17.md"
               }
             }
           },
@@ -157,14 +157,15 @@
   },
   "active": "573ad995c2800b52",
   "lastOpenFiles": [
+    "Fin-Ops Notes/Optimizations.md",
+    "Fin-Ops Notes/The Cloud Bill.md",
+    "Welcome to Reor.md",
     "Fin-Ops Notes/A Path Forward.md",
     "2024-09-17.md",
     "Fin-Ops Notes/The Value of FinOps.md",
     "Fin-Ops Notes/The Iron Triangle.md",
-    "Fin-Ops Notes/The Cloud Bill.md",
     "Fin-Ops Notes/Sustainability.md",
     "Fin-Ops Notes/Partnerships.md",
-    "Fin-Ops Notes/Optimizations.md",
     "Fin-Ops Notes/Glossary of Terms.md",
     "Fin-Ops Notes/Getting Started with Automation.md",
     "Fin-Ops Notes/FOCUS.md",
@@ -178,7 +179,6 @@
     "Fin-Ops Notes/Images/Pasted image 20240808135534.png",
     "Fin-Ops Notes/Images",
     "Fin-Ops Notes",
-    "Welcome to Reor.md",
     "Archive",
     "Untitled.md",
     "New notes.md"
