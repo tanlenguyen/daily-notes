@@ -10,7 +10,7 @@ Some features you should be aware of:
 
   - You can view the Related Notes to a particular chunk of text by highlighting it and hitting the button that appears.
 
-  - You can also create inline links by surrounding text with two square brackets (like in Obsidian). [[Like this]]
+  - You can also create inline links by surrounding text with two square brackets (like in Obsidian). 
 
 - **Chat:**
 
