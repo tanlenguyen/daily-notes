@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Fin-Ops Notes/Notes from FinOps book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b7ce6e00ff4dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Fin-Ops Notes/Notes from FinOps book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Fin-Ops Notes/Notes from FinOps book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-20.md"
+                "file": "Fin-Ops Notes/Notes from FinOps book.md"
               }
             }
           },
@@ -170,9 +182,16 @@
   },
   "active": "bbbe67e03f39563f",
   "lastOpenFiles": [
+    "2024-09-21.md",
+    "2024-09-22.md",
+    "2024-09-19.md",
+    "2024-09-20.md",
+    "Fin-Ops Notes/Notes from FinOps book.md",
+    "2024-09-17.md",
+    "2024-09-18.md",
+    "2024-09-23.md",
     "Linked Articles/Rent-a-table.md",
     "Linked Articles",
-    "2024-09-20.md",
     "Fin-Ops Notes/Optimizations.md",
     "Fin-Ops Notes/Getting Started with Automation.md",
     "Fin-Ops Notes/Data-Driven Decision Making.md",
@@ -180,14 +199,11 @@
     "Fin-Ops Notes/Cloud Journey for Organizations.md",
     "Fin-Ops Notes/Automations Working Together.md",
     "Fin-Ops Notes/The Value of FinOps.md",
-    "2024-09-19.md",
     "Fin-Ops Notes/The Iron Triangle.md",
     "Fin-Ops Notes/Partnerships.md",
     "Welcome to Reor.md",
     "Like this.md",
     "Fin-Ops Notes/A Path Forward.md",
-    "2024-09-18.md",
-    "2024-09-17.md",
     "Fin-Ops Notes/Automation.md",
     "Fin-Ops Notes/Sustainability.md",
     "Fin-Ops Notes/Glossary of Terms.md",
@@ -196,9 +212,7 @@
     "Fin-Ops Notes/Images/Pasted image 20240808135534.png",
     "Fin-Ops Notes/The Cloud Bill.md",
     "Fin-Ops Notes/Images",
-    "Fin-Ops Notes/FOCUS.md",
     "Fin-Ops Notes",
-    "Archive",
-    "New notes.md"
+    "Archive"
   ]
 }
