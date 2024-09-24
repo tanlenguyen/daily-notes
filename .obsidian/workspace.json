@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fin-Ops Notes/Notes from FinOps book.md",
+                "file": "2024-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fin-Ops Notes/Notes from FinOps book.md",
+                "file": "2024-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fin-Ops Notes/Notes from FinOps book.md",
+                "file": "2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fin-Ops Notes/Notes from FinOps book.md"
+                "file": "2024-09-24.md"
               }
             }
           },
@@ -182,36 +182,37 @@
   },
   "active": "bbbe67e03f39563f",
   "lastOpenFiles": [
-    "2024-09-21.md",
-    "2024-09-22.md",
-    "2024-09-19.md",
-    "2024-09-20.md",
-    "Fin-Ops Notes/Notes from FinOps book.md",
-    "2024-09-17.md",
-    "2024-09-18.md",
     "2024-09-23.md",
+    "2024-09-24.md",
+    "2024-09-22.md",
+    "2024-09-20.md",
+    "2024-09-19.md",
+    "2024-09-18.md",
+    "2024-09-17.md",
+    "Fin-Ops Notes/Notes from FinOps book.md",
+    "Fin-Ops Notes/FinOps Certified Engineer",
+    "Fin-Ops Notes/FinOps Certified Engineer/The Cloud Bill.md",
+    "2024-09-21.md",
     "Linked Articles/Rent-a-table.md",
     "Linked Articles",
-    "Fin-Ops Notes/Optimizations.md",
-    "Fin-Ops Notes/Getting Started with Automation.md",
-    "Fin-Ops Notes/Data-Driven Decision Making.md",
-    "Fin-Ops Notes/Data Sources.md",
-    "Fin-Ops Notes/Cloud Journey for Organizations.md",
-    "Fin-Ops Notes/Automations Working Together.md",
-    "Fin-Ops Notes/The Value of FinOps.md",
-    "Fin-Ops Notes/The Iron Triangle.md",
-    "Fin-Ops Notes/Partnerships.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Optimizations.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Getting Started with Automation.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Data-Driven Decision Making.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Data Sources.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Cloud Journey for Organizations.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Automations Working Together.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/The Value of FinOps.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/The Iron Triangle.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Partnerships.md",
     "Welcome to Reor.md",
     "Like this.md",
-    "Fin-Ops Notes/A Path Forward.md",
-    "Fin-Ops Notes/Automation.md",
-    "Fin-Ops Notes/Sustainability.md",
-    "Fin-Ops Notes/Glossary of Terms.md",
-    "Fin-Ops Notes/Fin Ops.md",
-    "Fin-Ops Notes/Images/Pasted image 20240809143623.png",
-    "Fin-Ops Notes/Images/Pasted image 20240808135534.png",
-    "Fin-Ops Notes/The Cloud Bill.md",
-    "Fin-Ops Notes/Images",
+    "Fin-Ops Notes/FinOps Certified Engineer/A Path Forward.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Automation.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Sustainability.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Glossary of Terms.md",
+    "Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
+    "Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png",
+    "Fin-Ops Notes/FinOps Certified Engineer/Images",
     "Fin-Ops Notes",
     "Archive"
   ]
