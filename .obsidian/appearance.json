@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Dracula for Obsidian"
+  "cssTheme": "Dracula for Obsidian",
+  "baseFontSize": 18
 }
