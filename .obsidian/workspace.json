@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-30.md",
+                "file": "2024-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-30.md",
+                "file": "2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-30.md",
+                "file": "2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-30.md"
+                "file": "2024-10-01.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "573ad995c2800b52",
   "lastOpenFiles": [
-    "Linked Articles/Weekly FinOps Board.md",
     "2024-09-30.md",
+    "2024-10-01.md",
+    "Linked Articles/Weekly FinOps Board.md",
     "2024-09-29.md",
     "2024-09-28.md",
     "2024-09-27.md",
@@ -196,7 +197,6 @@
     "Fin-Ops Notes/FinOps Certified Engineer/Getting Started with Automation.md",
     "Fin-Ops Notes/FinOps Certified Engineer/Data-Driven Decision Making.md",
     "Fin-Ops Notes/FinOps Certified Engineer/Data Sources.md",
-    "Fin-Ops Notes/FinOps Certified Engineer/Cloud Journey for Organizations.md",
     "Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
     "Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png",
     "Fin-Ops Notes/FinOps Certified Engineer/Images",
