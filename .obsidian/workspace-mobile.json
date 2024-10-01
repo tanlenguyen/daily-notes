@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-30.md",
+                "file": "Linked Articles/3D File merchants.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-09-30.md",
+            "file": "Linked Articles/3D File merchants.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-09-30.md",
+            "file": "Linked Articles/3D File merchants.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-09-30.md"
+            "file": "Linked Articles/3D File merchants.md"
           }
         }
       }
@@ -134,11 +134,13 @@
   },
   "active": "d84c11ad30ccaa00",
   "lastOpenFiles": [
+    "2024-10-01.md",
+    "Linked Articles/3D File merchants.md",
+    "2024-09-30.md",
     "Linked Articles/Weekly FinOps Board.md",
     "/2024-09-30.md",
     "/Linked Articles/Weekly FinOps Board.md",
     "2024-09-29.md",
-    "2024-09-30.md",
     "2024-09-28.md",
     "2024-09-25.md",
     "2024-09-27.md",
