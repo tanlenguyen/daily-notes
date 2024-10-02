@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-01.md",
+                "file": "2024-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-10-01.md",
+            "file": "2024-10-02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-10-01.md",
+            "file": "2024-10-02.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-10-01.md"
+            "file": "2024-10-02.md"
           }
         }
       }
@@ -134,8 +134,12 @@
   },
   "active": "d84c11ad30ccaa00",
   "lastOpenFiles": [
-    "Linked Articles/3D File merchants.md",
+    "Linked Articles/Commander Decks.md",
+    "/2024-10-01.md",
+    "/Linked Articles/Commander Decks.md",
     "2024-10-01.md",
+    "2024-10-02.md",
+    "Linked Articles/3D File merchants.md",
     "2024-09-30.md",
     "Linked Articles/Weekly FinOps Board.md",
     "/2024-09-30.md",
