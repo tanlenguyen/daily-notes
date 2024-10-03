@@ -11,12 +11,8 @@
             "id": "573ad995c2800b52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-10-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +149,10 @@
   },
   "active": "573ad995c2800b52",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-10-03.md",
     "2024-10-01.md",
     "2024-10-02.md",
-    "2024-10-03.md",
     "Linked Articles/3D File merchants.md",
     "Linked Articles/Commander Decks.md",
     "Linked Articles/Config Costs going up.md",
@@ -182,7 +175,6 @@
     "Archive/2024-09-18.md",
     "Archive/2024-09-17.md",
     "Archive/2024-09-30.md",
-    "2024-09-25.md",
     "Archive",
     "Fin-Ops Notes/FinOps Certified Engineer",
     "Linked Articles",
