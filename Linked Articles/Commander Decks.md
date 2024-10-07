@@ -11,5 +11,5 @@
 | :--------------------: | :----: | :---: | :----------------------------------------: |
 | Kathril, Aspect Warper |  WBG   |   7   | Graveyard value with keywords on creatures |
 | Kalamax, the Stormsire |  URG   |   7   |       Spellslinger, duplicate spells       |
-|      The Mothman       |  BGU   |   7   |                  Mutants                   |
-|                        |        |       |                                            |
+|    The Wise Mothman    |  BGU   |   7   |           Mutants, rad counters            |
+|     Dr. Madison Li     |  REU   |   7   |            Artifacts for energy            |
