@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-07.md",
+                "file": "2024-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-07.md",
+                "file": "2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-07.md",
+                "file": "2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-07.md"
+                "file": "2024-10-08.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf5950258bbe54f",
+  "active": "573ad995c2800b52",
   "lastOpenFiles": [
-    "2024-10-03.md",
     "2024-10-07.md",
+    "2024-10-08.md",
+    "2024-10-03.md",
     "2024-10-04.md",
     "Linked Articles/Weekly FinOps Board.md",
     "Linked Articles/Multi-Cloud Dashboard.md",
@@ -183,7 +184,6 @@
     "Archive/2024-09-21.md",
     "Archive/2024-09-20.md",
     "Archive/2024-09-19.md",
-    "Archive/2024-09-18.md",
     "Archive",
     "Fin-Ops Notes/FinOps Certified Engineer",
     "Linked Articles",
