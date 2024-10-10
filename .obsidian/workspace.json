@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-10.md",
+                "file": "Linked Articles/Commander Decks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-10.md",
+                "file": "Linked Articles/Commander Decks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-10.md",
+                "file": "Linked Articles/Commander Decks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-10.md"
+                "file": "Linked Articles/Commander Decks.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "573ad995c2800b52",
   "lastOpenFiles": [
+    "Linked Articles/Config Costs going up.md",
+    "Fin-Ops Notes/Notes from FinOps book.md",
+    "2024-10-10.md",
     "Pasted image 20241010140736.png",
     "2024-10-09.md",
-    "2024-10-10.md",
     "2024-10-07.md",
     "2024-10-08.md",
     "2024-10-03.md",
@@ -167,7 +169,6 @@
     "Linked Articles/Weekly FinOps Board.md",
     "Linked Articles/Multi-Cloud Dashboard.md",
     "Linked Articles/Dungeons and Dragons Books.md",
-    "Linked Articles/Config Costs going up.md",
     "Linked Articles/Commander Decks.md",
     "Archive/2024-09-30.md",
     "Archive/2024-09-27.md",
