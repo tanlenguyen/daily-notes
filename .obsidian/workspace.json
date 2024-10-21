@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-18.md",
+                "file": "2024-10-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-18.md",
+                "file": "2024-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-18.md",
+                "file": "2024-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-18.md"
+                "file": "2024-10-21.md"
               }
             }
           },
@@ -157,11 +157,12 @@
   },
   "active": "573ad995c2800b52",
   "lastOpenFiles": [
-    "2024-10-17.md",
-    "2024-10-18.md",
-    "2024-10-15.md",
-    "2024-10-14.md",
     "2024-10-10.md",
+    "2024-10-21.md",
+    "2024-10-14.md",
+    "2024-10-15.md",
+    "2024-10-18.md",
+    "2024-10-17.md",
     "Linked Articles/Commander Decks.md",
     "Linked Articles/Config Costs going up.md",
     "Fin-Ops Notes/Notes from FinOps book.md",
@@ -184,7 +185,6 @@
     "Linked Articles/3D File merchants.md",
     "Linked Articles/Dungeons and Dragons Tables.md",
     "2024-09-22.md",
-    "Archive/2024-09-26.md",
     "Archive",
     "Fin-Ops Notes/FinOps Certified Engineer",
     "Linked Articles",
