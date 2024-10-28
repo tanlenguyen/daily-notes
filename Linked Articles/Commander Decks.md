@@ -7,6 +7,7 @@
 |  Kastral, the Windcrested  |   WU   |   6   |   Bird tribal   |
 |  Pantlaza, the Sunfavored  |  WRG   |   6   | Dinosaur tribal |
 | Shu-Yun, the Silent Tepest |  WUR   |   5   |     Voltron     |
+|                            |        |       |                 |
 # List of Precons
 
 |       Commander        | Colors | Power |                   Theme                    |
