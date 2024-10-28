@@ -1,10 +1,12 @@
 # List of homebrew decks
 
-|        Commander        | Colors | Power |     Theme     |
-| :---------------------: | :----: | :---: | :-----------: |
-|        Astarion         |   WB   |   5   |  Life drain   |
-| Karlach/Hardy Outlander |   RG   |   5   | Stompy combat |
-|                         |        |       |               |
+|         Commander          | Colors | Power |      Theme      |
+| :------------------------: | :----: | :---: | :-------------: |
+|   Astarion, the Decadent   |   WB   |   6   |   Life drain    |
+|  Karlach/Hardy Outlander   |   RG   |   6   |  Stompy combat  |
+|  Kastral, the Windcrested  |   WU   |   6   |   Bird tribal   |
+|  Pantlaza, the Sunfavored  |  WRG   |   6   | Dinosaur tribal |
+| Shu-Yun, the Silent Tepest |  WUR   |   5   |     Voltron     |
 # List of Precons
 
 |       Commander        | Colors | Power |                   Theme                    |
