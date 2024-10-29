@@ -7,7 +7,7 @@
 |  Kastral, the Windcrested  |   WU   |   6   |   Bird tribal   |
 |  Pantlaza, the Sunfavored  |  WRG   |   6   | Dinosaur tribal |
 | Shu-Yun, the Silent Tepest |  WUR   |   5   |     Voltron     |
-|                            |        |       |                 |
+| Yuriko, the Tiger's Shadow |   UB   |   6   |    Ninjutsu     |
 # List of Precons
 
 |       Commander        | Colors | Power |                   Theme                    |
