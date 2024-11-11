@@ -1,0 +1,87 @@
+1 Adorned Pouncer
+1 Alms Collector
+1 Arahbo, Roar of the World
+1 Arahbo, the First Fang
+1 Arcane Signet
+1 Beastmaster Ascension
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brimaz, King of Oreskos
+1 Bronzehide Lion
+1 Brotherhood Regalia
+1 Canopy Vista
+1 Cavern of Souls
+1 Command Tower
+1 Door of Destinies
+1 Eiganjo, Seat of the Empire
+1 Esper Sentinel
+1 Felidar Retreat
+1 Feline Sovereign
+1 Fleecemane Lion
+8 Forest
+1 Gaea's Cradle
+1 Generous Gift
+1 Helpful Hunter
+1 Herald's Horn
+1 Hungry Lynx
+1 Jazal Goldmane
+1 Jedit Ojanen of Efrava
+1 Jewel Thief
+1 Keeper of Fables
+1 King of the Pride
+1 Kutzil, Malamet Exemplar
+1 Leonin Arbiter
+1 Leonin Relic-Warder
+1 Leonin Warleader
+1 Lion Sash
+1 Lost Leonin
+1 Lush Portico
+1 Malamet Brawler
+1 Minas Tirith
+1 Mirari's Wake
+1 Mirri, Weatherlight Duelist
+1 Nature's Lore
+1 Ocelot Pride
+1 Oreskos Explorer
+1 Overgrown Farmland
+1 Path of Ancestry
+1 Path to Exile
+8 Plains
+1 Pride Sovereign
+1 Prismatic Vista
+1 Prowling Serpopard
+1 Qala, Ajani's Pridemate
+1 Qasali Pridemage
+1 Qasali Slingers
+1 Realmwalker
+1 Regal Caracal
+1 Return of the Wildspeaker
+1 Roaming Throne
+1 Sacred Cat
+1 Savannah
+1 Scythecat Cub
+1 Selesnya Sanctuary
+1 Skyhunter Skirmisher
+1 Skyhunter Strike Force
+1 Smothering Tithe
+1 Sol Ring
+1 Sovereign Okinec Ahau
+1 Stalking Leonin
+1 Stoneforge Masterwork
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Talisman of Unity
+1 Teferi's Protection
+1 Temple Garden
+1 Temur Sabertooth
+1 The Great Henge
+1 Three Tree City
+1 Tribute to the World Tree
+1 Trouble in Pairs
+1 White Sun's Zenith
+1 Windbrisk Heights
+1 Windswept Heath
+1 Wooded Bastion
+1 Yavimaya, Cradle of Growth
+
