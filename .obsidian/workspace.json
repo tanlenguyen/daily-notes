@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-13.md",
+                "file": "2024-11-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-13"
+              "title": "2024-11-14"
+            }
+          },
+          {
+            "id": "fdee68a460994062",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-13.md"
+                "file": "2024-11-14.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-13"
+              "title": "Outline of 2024-11-14"
             }
           },
           {
@@ -188,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a140372524e73ebf",
+  "active": "fdee68a460994062",
   "lastOpenFiles": [
-    "2024-11-11.md",
     "2024-11-13.md",
+    "2024-11-14.md",
+    "2024-11-11.md",
     "Deck - Arahbo, Roar of the World.txt",
     "Archive/2024-10-23.md",
     "Archive/2024-10-24.md",
@@ -217,7 +230,6 @@
     "Archive/2024-10-08.md",
     "Archive/2024-10-03.md",
     "Archive/2024-10-04.md",
-    "Linked Articles/Multi-Cloud Dashboard.md",
     "Untitled.canvas",
     "Archive",
     "Fin-Ops Notes/FinOps Certified Engineer",
