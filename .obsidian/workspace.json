@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-15.md",
+                "file": "2024-11-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-15"
+              "title": "2024-11-18"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-15.md"
+                "file": "2024-11-18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-15"
+              "title": "Outline of 2024-11-18"
             }
           },
           {
@@ -188,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a140372524e73ebf",
+  "active": "fdf5950258bbe54f",
   "lastOpenFiles": [
-    "2024-11-14.md",
+    "2024-11-18.md",
     "2024-11-15.md",
+    "2024-11-14.md",
     "2024-11-13.md",
     "2024-11-11.md",
     "Deck - Arahbo, Roar of the World.txt",
@@ -217,7 +218,6 @@
     "Archive/2024-10-09.md",
     "Archive/2024-10-07.md",
     "Archive/2024-10-08.md",
-    "Archive/2024-10-03.md",
     "Untitled.canvas",
     "Archive",
     "Fin-Ops Notes/FinOps Certified Engineer",
