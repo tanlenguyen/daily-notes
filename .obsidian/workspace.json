@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-25.md",
+                "file": "2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-25"
+              "title": "2024-11-26"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-25.md"
+                "file": "2024-11-26.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-25"
+              "title": "Outline of 2024-11-26"
             }
           },
           {
@@ -190,8 +190,9 @@
   },
   "active": "a140372524e73ebf",
   "lastOpenFiles": [
-    "2024-11-22.md",
     "2024-11-25.md",
+    "2024-11-26.md",
+    "2024-11-22.md",
     "2024-11-20.md",
     "2024-11-15.md",
     "2024-11-19.md",
@@ -216,7 +217,6 @@
     "Archive/2024-10-03.md",
     "Archive/2024-10-02.md",
     "Archive/2024-10-01.md",
-    "2024-11-13.md",
     "Pasted image 20241010140736.png",
     "Untitled.canvas",
     "Archive",
