@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-26.md",
+                "file": "Crypto Trade Bot/main.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-26"
+              "title": "main.js"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-26.md"
+                "file": "Crypto Trade Bot/main.js.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-26"
+              "title": "Outline of main.js"
             }
           },
           {
@@ -190,8 +190,11 @@
   },
   "active": "a140372524e73ebf",
   "lastOpenFiles": [
-    "2024-11-25.md",
+    "Crypto Trade Bot/config.env.md",
+    "Crypto Trade Bot/main.js.md",
     "2024-11-26.md",
+    "Crypto Trade Bot",
+    "2024-11-25.md",
     "2024-11-22.md",
     "2024-11-20.md",
     "2024-11-15.md",
@@ -215,8 +218,6 @@
     "Archive/2024-10-07.md",
     "Archive/2024-10-04.md",
     "Archive/2024-10-03.md",
-    "Archive/2024-10-02.md",
-    "Archive/2024-10-01.md",
     "Pasted image 20241010140736.png",
     "Untitled.canvas",
     "Archive",
