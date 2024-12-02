@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "main.js"
             }
+          },
+          {
+            "id": "d3686aaa9fe35b68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a140372524e73ebf",
+  "active": "d3686aaa9fe35b68",
   "lastOpenFiles": [
     "Crypto Trade Bot/config.env.md",
     "Crypto Trade Bot/main.js.md",
