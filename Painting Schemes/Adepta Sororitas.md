@@ -1,3 +1,7 @@
-White Vallejo Primer
-Grim Black Speedpaint - AP
-Leadbelcher - Citadel
+| Color         | Brand        |
+| ------------- | ------------ |
+| White Primer  | Vallejo      |
+| Grim Black    | Army Painter |
+| Leadbelcher   | Citadel      |
+| Mephiston Red | Citadel      |
+
