@@ -1,5 +1,4 @@
 Army Green - AP
-
 Fluorescent Orange - 
 Bronze
 Oxide - Citadel 
