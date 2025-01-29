@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/CloudOps.md",
+                "file": "2025-01-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CloudOps"
+              "title": "2025-01-29"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/CloudOps.md"
+                "file": "2025-01-29.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CloudOps"
+              "title": "Outline of 2025-01-29"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "d3686aaa9fe35b68",
   "lastOpenFiles": [
-    "2025-01-28.md",
     "Linked Articles/CloudOps.md",
+    "2025-01-28.md",
     "Linked Articles/Multi-Cloud Dashboard.md",
     "Linked Articles/Dungeons and Dragons Tables.md",
     "Linked Articles/Dungeons and Dragons Books.md",
