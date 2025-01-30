@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Commander Decks.md",
+                "file": "Linked Articles/CloudOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commander Decks"
+              "title": "CloudOps"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Commander Decks.md"
+                "file": "Linked Articles/CloudOps.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Commander Decks"
+              "title": "Outline of CloudOps"
             }
           },
           {
@@ -204,15 +204,15 @@
   },
   "active": "d3686aaa9fe35b68",
   "lastOpenFiles": [
+    "2025-01-30.md",
+    "Linked Articles/Commander Decks.md",
     "Linked Articles/Multi-Cloud Dashboard.md",
     "Linked Articles/Config Costs going up.md",
     "Linked Articles/Dungeons and Dragons Books.md",
     "Linked Articles/Dungeons and Dragons Tables.md",
-    "2025-01-30.md",
     "Linked Articles/CloudOps.md",
     "2025-01-29.md",
     "2025-01-28.md",
-    "Linked Articles/Commander Decks.md",
     "2025-01-27.md",
     "Painting Schemes/Thousand Sons.md",
     "Painting Schemes/Death Guard.md",
