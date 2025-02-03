@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "Dracula for Obsidian",
   "baseFontSize": 12,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }
