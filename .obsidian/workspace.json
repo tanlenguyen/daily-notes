@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "3D File merchants"
             }
+          },
+          {
+            "id": "38a763d34dccded4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,7 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/3D File merchants.md"
+                "file": "Linked Articles/3D File merchants.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of 3D File merchants"
@@ -202,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3686aaa9fe35b68",
+  "active": "38a763d34dccded4",
   "lastOpenFiles": [
     "Linked Articles/Untitled.md",
     "Linked Articles/Commander Decks.md",
