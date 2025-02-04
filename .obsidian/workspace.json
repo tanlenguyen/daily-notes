@@ -53,12 +53,14 @@
             "id": "38a763d34dccded4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "2025-02-04.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "2025-02-04"
             }
           }
         ],
@@ -181,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/3D File merchants.md",
+                "file": "2025-02-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3D File merchants"
+              "title": "Outline of 2025-02-04"
             }
           },
           {
@@ -220,6 +222,7 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "2025-02-04.md",
     "Linked Articles/Untitled.md",
     "Linked Articles/Commander Decks.md",
     "Linked Articles/CloudOps.md",
@@ -246,7 +249,6 @@
     "2025-01-16.md",
     "2025-01-14.md",
     "Painting Schemes",
-    "Archive/2024-12-12.md",
     "Archive/Crypto Trade Bot",
     "Deck - Arahbo, Roar of the World.txt",
     "Pasted image 20241010140736.png",
