@@ -8,3 +8,9 @@ There is a button called "Simulate" on every IAM role, that will lead to the sim
 # Kubernetes
 K9s for logging and observability.
 Installation is done manually through a curl and we get the latest then install it from there.
+
+
+# CloudWatch
+
+## Cost anomalies in EBS 
+cloudwatch->Logs Insights->Select DataProduction-vpc-flowlogs, and typed into the query generator
