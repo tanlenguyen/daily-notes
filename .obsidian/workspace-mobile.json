@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Adepta Sororitas"
             }
+          },
+          {
+            "id": "137b42d2b02ec5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-02-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84c11ad30ccaa00",
+  "active": "137b42d2b02ec5bf",
   "lastOpenFiles": [
+    "Painting Schemes/Adepta Sororitas.md",
+    "2025-02-13.md",
     "Archive/2025-01-13.md",
     "/Archive/2025-01-13.md",
     "Archive/2025-01-29.md",
@@ -177,8 +194,6 @@
     "2025-02-11.md",
     "2025-02-10.md",
     "/2025-02-06.md",
-    "/2025-02-05.md",
-    "2025-02-04.md",
     "/Archive",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png",
