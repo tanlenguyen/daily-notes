@@ -14,3 +14,6 @@ https://www.coooolstuff.com/product/july-2023-stationforge/
 Blooded
 https://www.coooolstuff.com/product/october-2022-stationforge/
 Blooded Extra https://www.coooolstuff.com/product/february-2023-stationforge/
+
+Novitiates
+https://www.coooolstuff.com/product/february-2023-onepagerules/
