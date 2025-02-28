@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kill Team File Lists.md",
+                "file": "Linked Articles/3D File merchants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kill Team File Lists"
+              "title": "3D File merchants"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kill Team File Lists.md",
+                "file": "Linked Articles/3D File merchants.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kill Team File Lists"
+              "title": "Outline of 3D File merchants"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
-    "2025-02-27.md",
     "Kill Team File Lists.md",
+    "2025-02-27.md",
     "Linked Articles/3D File merchants.md",
     "2025-02-24.md",
     "2025-02-21.md",
