@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-03.md",
+                "file": "2025-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-03"
+              "title": "2025-03-04"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-03-03.md",
+                "file": "2025-03-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-03"
+              "title": "Outline of 2025-03-04"
             }
           },
           {
@@ -220,10 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38a763d34dccded4",
+  "active": "fdf5950258bbe54f",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/3D File merchants.md",
     "2025-03-03.md",
+    "2025-03-04.md",
+    "Linked Articles/Warhammer/3D File merchants.md",
     "Linked Articles/D&D/Humblewood/Mini list.md",
     "Linked Articles/D&D/Humblewood/Untitled",
     "Linked Articles/D&D/Humblewood",
@@ -257,7 +258,6 @@
     "Linked Articles/Painting Schemes/Thousand Sons.md",
     "Linked Articles/Painting Schemes/Death Guard.md",
     "Linked Articles/Painting Schemes/Hand of the Archon.md",
-    "Linked Articles/Painting Schemes/Custorks.md",
     "Pasted image 20241010140736.png",
     "Untitled.canvas",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
