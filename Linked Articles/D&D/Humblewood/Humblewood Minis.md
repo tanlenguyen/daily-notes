@@ -11,6 +11,10 @@
 - https://jamiekorte.gumroad.com/ - https://jamiekorte.gumroad.com/l/veRSP
 # General NPCs
 Pepunki https://www.myminifactory.com/users/pepunki-creatures
+Goon Master https://www.coooolstuff.com/product-category/miniatures/goon-master/
+Duncan Shadows
+Dice Heads https://www.coooolstuff.com/product-category/miniatures/dice-heads/
+Naga Minis https://www.coooolstuff.com/product-category/miniatures/naga-minis/
 
 
 # Villains in general
