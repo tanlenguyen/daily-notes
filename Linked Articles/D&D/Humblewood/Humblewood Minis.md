@@ -15,6 +15,11 @@ Goon Master https://www.coooolstuff.com/product-category/miniatures/goon-master/
 Duncan Shadows
 Dice Heads https://www.coooolstuff.com/product-category/miniatures/dice-heads/
 Naga Minis https://www.coooolstuff.com/product-category/miniatures/naga-minis/
+Epics N Stuff https://www.coooolstuff.com/product-category/miniatures/epics-n-stuffs/
+Bite the Bullet https://www.coooolstuff.com/product/october-2024-bite-the-bullet/
+	Lepu https://www.coooolstuff.com/product/march-2024-bite-the-bullet/
+	Strig https://www.coooolstuff.com/product/august-2023-bite-the-bullet/
+	Eluran https://www.coooolstuff.com/product/april-2023-bite-the-bullet/
 
 
 # Villains in general
