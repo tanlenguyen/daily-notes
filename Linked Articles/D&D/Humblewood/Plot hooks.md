@@ -1,0 +1,66 @@
+# Tanglewilds
+## **Ancient Ruins & Mysteries**
+
+The Tanglewilds has a long history of **ancient civilizations** and **forgotten ruins**. As the jungle has grown over time, **hidden structures**, **temples**, and **relics** are slowly being reclaimed by nature, their **secrets lying dormant** in the wilds.
+
+- **The Sunken Temple** – An ancient **stone temple** swallowed by the jungle’s growth, now mostly submerged in **swamps**. Its **deep carvings** suggest it was dedicated to an old sun god, and rumors of **lost treasure** swirl around it.
+- **The Echoing Caverns** – Beneath the Tanglewilds are vast, dark caves that were once used by **ancient peoples** for **rituals**. The air within is heavy with the echoes of long-lost **songs** and **whispers**.
+- **The Fangs of the Beast** – Massive, jagged rocks protruding from the jungle floor, said to be the **remnants of a forgotten creature**. Those who touch the rocks often find themselves caught in strange **visions** or **hallucinations**.
+## **Dangers & Challenges**
+
+While the Tanglewilds is an incredible place to explore, it is full of **perils** for the unprepared or **overconfident adventurer**.
+
+- **Dangerous Flora** – Many of the plants in the Tanglewilds are **carnivorous** or **poisonous**, and even those that seem harmless can hold **hidden threats**.
+- **Sentient Vines** – Some vines in the jungle are known to have **magical properties**, capable of **entangling** or **influencing the minds** of those who wander too far into their reach.
+- **Rogue Shaman** – A **tribal group** of **mysterious druids** who practice ancient, dark magics in the heart of the jungle, rumored to **summon creatures** and **curse intruders**.
+- **The Wild Spirits** – The jungle is said to be **haunted by spirits** of nature—**protective spirits** who can become hostile if their land is disrespected. Some believe they are guardians of the **ancient ruins**.
+# The Avium
+## Rivalries & Politics
+Though a place of learning, the Avium is not without its rivalries and hidden agendas:
+- The Perch Guard and Alderheart’s nobility often seek to influence the Avium’s research for their own gain.
+- The Bandit Coalition views the Avium as an elite stronghold that hoards magic for the birdfolk.
+- The Crimson Talon Syndicate has tried to steal magical artifacts from its archives.
+- Some rogue scholars believe the Avium is hiding dangerous truths from the people of Humblewood.
+## Adventure Hooks
+- A Stolen Tome – A powerful magical text has been stolen from the Avium. The players must track it down before it falls into the wrong hands.
+- Secrets of the Scorched Grove – An ancient prophecy locked within the Avium’s archives may hold the key to stopping the spread of fire magic.
+- The Rogue Scholar – A former professor has gone missing after delving too deep into forbidden magic. #TheAvium
+
+# Bandit Coalition
+Their motto? **“Take what you need, give nothing back.”**
+
+#### **What Do They Want?**
+
+That depends on **who you ask**. Some bandits believe in **redistributing wealth**, helping the humblefolk survive in a world where birdfolk rule from their treetop cities. Others are just in it for **gold, power, and revenge**. But all of them share one thing: **they refuse to bow to Alderheart’s laws**.
+
+#### **Where Do They Operate?**
+
+The Bandit Coalition thrives in the **wildlands** outside Alderheart’s reach. Their hideouts can be found in the dense forests, underground burrows, and even the **Scorched Grove**, where fire and corruption have driven away most settlers. They know the land better than anyone, using hit-and-run tactics to **ambush caravans, disrupt trade routes, and strike at the heart of Alderheart’s economy**.
+
+#### **Who Leads Them?**
+
+There’s no single leader of the Bandit Coalition, but a few infamous names stand out:
+
+- **Grimm Vexspur** – A ruthless Vulpin warlord who believes in taking the fight directly to Alderheart.
+- **Mama Jerra** – A wise and cunning Jerbeen matriarch who protects the weak and punishes the greedy.
+- **Redfang the Unbroken** – A former Perch Guard Strig who abandoned his post and now leads the fiercest bandit raids.
+- **The Hollow Beak** – A masked Corvum who speaks in riddles and deals in secrets, making enemies disappear without a trace.
+
+#### **How Do They Fight?**
+
+The Bandit Coalition isn’t an army—they fight with **stealth, sabotage, and ambush tactics**. They’ll raid supply lines, steal weapons, and disappear before reinforcements arrive. Some groups prefer **diplomacy and smuggling**, while others **burn and pillage** to send a message.
+
+#### **Are They Heroes or Villains?**
+
+That’s up to **you**. Some bandits are **freedom fighters**, resisting an unfair system. Others are **self-serving criminals**, preying on the weak. Will your character **side with the law** to bring them down? Or will you **join them, fighting for a cause (or coin)?** #BanditCoalition
+
+
+# Saltar Port
+### **Notable Figures**
+
+- **Captain Veyna Stormcrest (Arapa Birdfolk)** – A legendary **privateer-turned-governor** of Saltar Port.
+- **Krev the Gull (Vulpin Smuggler)** – A cunning **crime lord** who runs operations out of the Undertow.
+- **Mira Tidesong (Luma Cleric of Ostra)** – A **mystic and healer** who claims to hear the voice of the sea.
+
+# Calculation for Cost Percent
+[(Current Amount/Old Amount)-1]X*100 =  Cost Percent Amount

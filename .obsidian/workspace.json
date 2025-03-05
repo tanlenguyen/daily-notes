@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+                "file": "Linked Articles/D&D/Humblewood/Plot hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeons and Dragons Tables"
+              "title": "Plot hooks"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+                "file": "Linked Articles/D&D/Humblewood/Plot hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dungeons and Dragons Tables"
+              "title": "Outline of Plot hooks"
             }
           },
           {
@@ -222,21 +222,23 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "2025-03-03.md",
+    "Linked Articles/D&D/Humblewood/Plot hooks.md",
+    "2025-03-04.md",
+    "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
+    "Linked Articles/FinOps/Config Costs going up.md",
+    "Linked Articles/FinOps/CloudOps.md",
+    "Linked Articles/MtG/Commander Decks.md",
     "Linked Articles/D&D/Dungeons and Dragons Books.md",
     "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
-    "Linked Articles/D&D/Humblewood/Mini list.md",
     "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+    "Linked Articles/D&D/Humblewood/Mini list.md",
     "Pasted image 20250305093336.png",
     "2025-03-05.md",
-    "2025-03-04.md",
-    "2025-03-03.md",
     "Linked Articles/Warhammer/3D File merchants.md",
     "Untitled",
     "Linked Articles/D&D/Humblewood",
     "Linked Articles/Untitled.md",
-    "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
-    "Linked Articles/FinOps/Config Costs going up.md",
-    "Linked Articles/MtG/Commander Decks.md",
     "Linked Articles/MtG",
     "Linked Articles/New folder",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
@@ -248,7 +250,6 @@
     "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
     "Linked Articles/Warhammer/Kill Team",
     "Linked Articles/Warhammer",
-    "Linked Articles/FinOps/CloudOps.md",
     "Linked Articles/FinOps",
     "Linked Articles/D&D",
     "Linked Articles/Kill Team/Kill Team File Lists.md",
