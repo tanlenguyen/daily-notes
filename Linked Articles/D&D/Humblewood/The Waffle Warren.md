@@ -12,7 +12,7 @@
 
 **Sugar Ant Drizzles** – Candied sugar ants caramelized in maple bark syrup, sprinkled over crisp waffle shards and served with a side of tart berry compote.
 
-## 
+## Meadow Munchies
 **The Burrow Feast** – A towering stack of acorn-flour waffles, topped with roasted nuts, honeyed berries, and a drizzle of maple-bark syrup. Served with a side of crispy mushroom hash.
 
  **The Featherlight Waffle** – A delicate, airy waffle infused with lavender and served with whipped cloudberry cream, perfect for those who prefer a lighter breakfast.
@@ -23,6 +23,7 @@
 
 **The Nutburrow Surprise** – A secret seasonal special that changes every month, featuring rare woodland ingredients and surprise toppings!
 
+## 
 **The Fang & Flapjack** – A hearty dish of smoked eel fillets served with crispy cricket waffles, drizzled with a tangy berry reduction.
 
 **The Skitter Stack** – A protein-packed plate featuring waffles made with ground mealworm flour, topped with roasted beetles and a drizzle of savory mushroom gravy.
