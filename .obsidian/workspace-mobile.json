@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Painting Schemes/Adepta Sororitas.md",
+                "file": "2025-03-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adepta Sororitas"
-            }
-          },
-          {
-            "id": "137b42d2b02ec5bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-02-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-20"
+              "title": "2025-03-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,47 +149,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "137b42d2b02ec5bf",
+  "active": "d84c11ad30ccaa00",
   "lastOpenFiles": [
-    "2025-02-13.md",
-    "2025-02-19.md",
-    "2025-02-20.md",
-    "/2025-02-19.md",
-    "2025-02-18.md",
-    "/2025-02-13.md",
-    "/2025-02-06.md",
-    "/2025-02-05.md",
-    "/2025-02-20.md",
-    "/2025-02-18.md",
-    "Painting Schemes/Adepta Sororitas.md",
-    "Archive/2025-01-13.md",
-    "/Archive/2025-01-13.md",
-    "Archive/2025-01-29.md",
-    "Archive/2025-01-28.md",
-    "Archive/2025-01-27.md",
-    "/Archive/2025-01-29.md",
-    "/Archive/2025-01-28.md",
-    "/Archive/2025-01-27.md",
-    "2025-02-06.md",
-    "2025-02-05.md",
-    "/Painting Schemes/Hand of the Archon.md",
-    "Painting Schemes/Hand of the Archon.md",
-    "/Painting Schemes",
-    "/Linked Articles/CloudOps.md",
-    "/Linked Articles/3D File merchants.md",
-    "/Linked Articles",
-    "Archive/2025-01-30.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
+    "Linked Articles/MtG/Commander Decks.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
+    "Linked Articles/FinOps/CloudOps.md",
+    "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
+    "Linked Articles/FinOps/Config Costs going up.md",
+    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+    "Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "Archive/2025-02-19.md",
+    "Archive/2025-02-05.md",
+    "Archive/2025-02-13.md",
+    "Archive/2025-02-06.md",
+    "Pasted image 20250305102241.png",
+    "/Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+    "/Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
+    "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
+    "Linked Articles/Warhammer/3D File merchants.md",
+    "/Linked Articles/MtG/Commander Decks.md",
+    "/Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
+    "/Linked Articles/FinOps/CloudOps.md",
+    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
+    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "/Linked Articles/FinOps/Multi-Cloud Dashboard.md",
+    "/Linked Articles/FinOps/Config Costs going up.md",
+    "/Linked Articles/D&D/Dungeons and Dragons Tables.md",
+    "/Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "/Pasted image 20250305102241.png",
     "/Archive",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes",
+    "Linked Articles/Warhammer/Kill Team",
+    "Linked Articles/Warhammer",
+    "Linked Articles/MtG",
+    "Linked Articles/FinOps",
+    "Linked Articles/D&D/Humblewood",
+    "Linked Articles/D&D",
+    "/Linked Articles/Warhammer/Kill Team/Painting Schemes",
+    "/Linked Articles/Warhammer/Kill Team",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png",
     "/Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
-    "/Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png",
-    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images",
-    "Archive/Fin-Ops Notes/FinOps Certified Engineer",
-    "Archive/Fin-Ops Notes",
-    "Archive/Crypto Trade Bot",
-    "/Archive/Fin-Ops Notes/FinOps Certified Engineer/Images",
-    "/Archive/Fin-Ops Notes/FinOps Certified Engineer",
-    "/Archive/Fin-Ops Notes"
+    "/Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png"
   ]
 }
