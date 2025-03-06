@@ -23,7 +23,7 @@
 
 **The Nutburrow Surprise** – A secret seasonal special that changes every month, featuring rare woodland ingredients and surprise toppings!
 
-## 
+## Chomper Cravings
 **The Fang & Flapjack** – A hearty dish of smoked eel fillets served with crispy cricket waffles, drizzled with a tangy berry reduction.
 
 **The Skitter Stack** – A protein-packed plate featuring waffles made with ground mealworm flour, topped with roasted beetles and a drizzle of savory mushroom gravy.
@@ -37,3 +37,5 @@
 **The Slinker's Surprise** – A rotating special featuring a surprise protein, such as seasoned snail skewers, crispy fried cicadas, or smoked river prawns, paired with a uniquely flavored waffle.
 
 Beverages include **Hickory Brewed Coffee**, **Spiced Root Cider**, and **Honeydew Chai** all served in charming wooden mugs.
+
+
