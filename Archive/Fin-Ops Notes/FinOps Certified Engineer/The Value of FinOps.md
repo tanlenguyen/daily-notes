@@ -33,3 +33,5 @@ If a FinOps champion comes to you about costs, remember that you may have impact
 Let's recognize that this is a lot of work outside of actually doing the engineering. You are now being asked to analyze decisions, collaborate with FinOps, make trade-offs, implement solutions, validate results, and even support in understand cost impacts with other teams. Ultimately, although this may seem like a lot of work, it will lead to more freedom within the actual engineering portion of your role. By knowing the expectations and aligning on trade-offs, you will be able to craft a solution within those parameters with less fear of rework or even upset stakeholders. 
 
 Lastly, make friends with your FinOps champion. They will be the one to support you and your team through all of this! They are often well known across an organization and can be an excellent resource. Taking advantage of their support and committing to having trade-off conversations to make value-based decisions is well worth it!
+
+#FinOps 

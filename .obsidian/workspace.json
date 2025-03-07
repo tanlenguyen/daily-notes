@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+                "file": "Linked Articles/D&D/Dungeons and Dragons Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thousand Sons"
+              "title": "Dungeons and Dragons Books"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+                "file": "Linked Articles/D&D/Dungeons and Dragons Books.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thousand Sons"
+              "title": "Outline of Dungeons and Dragons Books"
             }
           },
           {
@@ -222,14 +222,33 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
-    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
-    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
-    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+    "2025-03-06.md",
+    "2025-03-07.md",
+    "Archive/Fin-Ops Notes/Notes from FinOps book.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/The Value of FinOps.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/The Iron Triangle.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/The Cloud Bill.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Sustainability.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Partnerships.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Optimizations.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Glossary of Terms.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Getting Started with Automation.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/FOCUS.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Fin Ops.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Data-Driven Decision Making.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Data Sources.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Cloud Journey for Organizations.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Automations Working Together.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Automation.md",
+    "Archive/Fin-Ops Notes/FinOps Certified Engineer/A Path Forward.md",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
+    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
+    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
+    "Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "Linked Articles/D&D/Setup upgrades.md",
+    "Linked Articles/FinOps/CloudOps.md",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/The Griffon's Saddlebag Book One.pdf",
     "Linked Articles/D&D/Source Material/TheGriffonsSaddlebag_BookOne (1).pdf",
@@ -239,26 +258,8 @@
     "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
     "Linked Articles/D&D/Source Material/Esper Genesis - Core Manual v1.2.pdf",
     "Linked Articles/D&D/Source Material/Untitled",
-    "Linked Articles/D&D/Dungeons and Dragons Books.md",
-    "2025-03-07.md",
-    "Linked Articles/D&D/Setup upgrades.md",
-    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
-    "2025-03-03.md",
-    "2025-03-06.md",
-    "2025-03-05.md",
-    "2025-03-04.md",
     "Pasted image 20250305102241.png",
-    "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
-    "Linked Articles/FinOps/Config Costs going up.md",
-    "Linked Articles/FinOps/CloudOps.md",
-    "Linked Articles/MtG/Commander Decks.md",
-    "Linked Articles/D&D/Humblewood/Mini list.md",
     "Pasted image 20250305093336.png",
-    "Linked Articles/Warhammer/3D File merchants.md",
-    "Linked Articles/Untitled.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Adepta Sororitas.md",
-    "Linked Articles/Kill Team/Kill Team File Lists.md",
     "Pasted image 20241010140736.png",
     "Untitled.canvas",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",

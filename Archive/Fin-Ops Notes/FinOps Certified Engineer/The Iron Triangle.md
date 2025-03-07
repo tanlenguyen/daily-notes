@@ -28,3 +28,5 @@ As an engineer, having these trade-off conversations early and moving in a value
 For example, knowing the organization is driving toward increased speed, you are able to allocate resources and time accordingly. You can also then have confidence if cost goes up to talk about the trade-offs that were made and the decisions of the organization. 
 
 Additionally, as trade-off discussions become more commonplace at your organization, other personas you work with will come to expect these conversations. For example, if a product owner comes to you and asks for a feature delivery. You and the product owner can then both expect that the conversation around this ask will come with a discussion about trade-offs and the impact on cost, quality, and speed.
+
+#FinOps 

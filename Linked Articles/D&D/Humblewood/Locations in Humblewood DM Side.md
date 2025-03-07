@@ -64,3 +64,6 @@ That’s up to **you**. Some bandits are **freedom fighters**, resisting an unfa
 
 # Calculation for Cost Percent
 [(Current Amount/Old Amount)-1]X*100 =  Cost Percent Amount
+
+
+#Humblewood #DnD 

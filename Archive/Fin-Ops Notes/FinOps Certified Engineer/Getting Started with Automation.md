@@ -44,3 +44,5 @@ The FinOps practice may decide to implement reduction automation. This automatio
 ## Conclusion
 
 [(opens in a new tab)](https://www.youtube.com/watch?v=TD3EqFO46HE&list=PLUSCToibAswlUXVZX2caukPWYzkDc597D&index=15)Let's recap on automation. When you have a repetitive task that needs to be performed often, automation removes the effort and maintains consistency. When deciding to automate, consider the outcome and be sure to validate that automation is the correct solution. Next, watch for automation conflicts and be sure to monitor automations over time. And, lastly, partner with FinOps to make automation decisions.
+
+#FinOps 

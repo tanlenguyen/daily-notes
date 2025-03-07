@@ -33,3 +33,5 @@ Installation is done manually through a curl and we get the latest then install 
 
 ## Cost anomalies in EBS 
 cloudwatch->Logs Insights->Select DataProduction-vpc-flowlogs, and typed into the query generator
+
+#FinOps 

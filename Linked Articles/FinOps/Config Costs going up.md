@@ -47,3 +47,5 @@ Change the dates
 
 # Preventative Measures
 Putting Cost Anomaly alerts on the resources discovered from the Athena queries would help. In some rare cases it might be worth it to put weekly and daily alerts on in case of rates of increase. 
+
+#FinOps 

@@ -30,3 +30,5 @@ It is important to remember, that to an organization using a cloud provider, the
 ## **Responsibility**
 
 The responsibility for sustainable cloud practices falls in the hands of both the organizations (and engineers) as well as the cloud service providers (CSPs). The service providers are responsible for the impact of the equipment used in a data center, the power sources, and the water usage. You as the engineer are responsible for the designing services to utilize resources and you want to reduce the amount of wasted capacity consumed from the CSP. The more you are consuming, then the more you are contributing to the impact of the data center.
+
+#FinOps 

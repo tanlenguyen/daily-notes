@@ -41,3 +41,5 @@ In the shared platform model there is a centralized team which offers a platform
 ### Fully Distributed
 In this model all teams are able to access the cloud directly. Each team makes autonomous decisions and are expected to follow general guidelines around cloud use. In this model there may exist a Cloud Center of Excellence (CCoE). The CCoE may define which cloud services teams can use, tagging policies, access and permissions governance, etc.
 **Implications:** This can be amazing at first glance. As an engineer, you have direct access to the cloud and merely an expectation to "be good." However, this can lead to lack of accountability, duplication of efforts, and over spend.
+
+#FinOps 

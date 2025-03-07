@@ -18,3 +18,5 @@ Incorporating these cost conversations and agreed-upon constraints early in the 
 ### **What if you aren't given constraints?**
 
 If your organization has not yet provided constraints around cost, this can be a red flag. Although it may seem exciting to engineer without having to worry about cost, this isn't necessarily a situation in which the best engineering occurs. Guardrails and cost conversations can actually lead to innovative and creative engineering that demands attention from other personas. If no one is telling you what to spend, you should seek what to spend (this way you make the right decision, race car or family sedan).
+
+#FinOps 

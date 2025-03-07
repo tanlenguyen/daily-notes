@@ -19,3 +19,4 @@
 |     Dr. Madison Li      |  REU   |   7   |            Artifacts for energy            |
 | Bello, Bard of Brambles |   RG   |   7   |     Artifact and Enchantment Creatures     |
 |                         |        |       |                                            |
+#MtG

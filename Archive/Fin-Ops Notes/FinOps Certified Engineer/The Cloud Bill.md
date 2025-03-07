@@ -21,3 +21,5 @@ But wait. If you divide the number of days in February by the number of days in 
 This time element plays into effect in cost and billing particularly when predicting costs in something less than 365 days. Traditionally, finance was given an annual bill that was divided evenly into 12 months. Now, friction can exist between finance and engineers because finance isn't expecting an increase in spend just because the month is longer. As an engineer, being aware of time as part of the cost/spend formula is crucial. 
 
 Remember: (Time or Usage) x Rate = Cost.
+
+#FinOps 
