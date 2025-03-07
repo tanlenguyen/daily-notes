@@ -53,12 +53,14 @@
             "id": "38a763d34dccded4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Linked Articles/D&D/Humblewood/Gm-Screen.pdf"
+                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Gm-Screen"
+              "icon": "lucide-file",
+              "title": "Thousand Sons"
             }
           }
         ],
@@ -181,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
+                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gm-Screen"
+              "title": "Outline of Thousand Sons"
             }
           },
           {
@@ -218,31 +220,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf5950258bbe54f",
+  "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
+    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
+    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
+    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
+    "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/The Griffon's Saddlebag Book One.pdf",
     "Linked Articles/D&D/Source Material/TheGriffonsSaddlebag_BookOne (1).pdf",
     "Linked Articles/D&D/Source Material/Humblewood.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
-    "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
     "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
     "Linked Articles/D&D/Source Material/Esper Genesis - Core Manual v1.2.pdf",
     "Linked Articles/D&D/Source Material/Untitled",
-    "Linked Articles/D&D/Source Material",
     "Linked Articles/D&D/Dungeons and Dragons Books.md",
-    "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
-    "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
     "2025-03-07.md",
     "Linked Articles/D&D/Setup upgrades.md",
     "Linked Articles/D&D/Dungeons and Dragons Tables.md",
-    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
     "2025-03-03.md",
     "2025-03-06.md",
     "2025-03-05.md",
     "2025-03-04.md",
-    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
-    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
     "Pasted image 20250305102241.png",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/Config Costs going up.md",
@@ -252,10 +256,7 @@
     "Pasted image 20250305093336.png",
     "Linked Articles/Warhammer/3D File merchants.md",
     "Linked Articles/Untitled.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Adepta Sororitas.md",
     "Linked Articles/Kill Team/Kill Team File Lists.md",
     "Pasted image 20241010140736.png",
