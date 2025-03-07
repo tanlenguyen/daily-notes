@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/D&D/Setup upgrades.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup upgrades"
+              "title": "Kill Team File Lists"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/D&D/Setup upgrades.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Setup upgrades"
+              "title": "Outline of Kill Team File Lists"
             }
           },
           {
@@ -222,8 +222,9 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
-    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
+    "2025-03-07.md",
     "Linked Articles/D&D/Setup upgrades.md",
+    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
     "Linked Articles/D&D/Dungeons and Dragons Books.md",
     "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
     "2025-03-03.md",
@@ -258,7 +259,6 @@
     "Linked Articles/D&D",
     "Linked Articles/Kill Team/Kill Team File Lists.md",
     "Linked Articles/Kill Team/Painting Schemes/Thousand Sons.md",
-    "Linked Articles/Kill Team/Painting Schemes/Hand of the Archon.md",
     "Linked Articles/Kill Team/Painting Schemes",
     "Pasted image 20241010140736.png",
     "Untitled.canvas",

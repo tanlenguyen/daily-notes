@@ -8,7 +8,7 @@ https://www.coooolstuff.com/product/may-2023-stationforge/
 https://www.coooolstuff.com/product/june-2023-stationforge/
 https://www.coooolstuff.com/product/november-2024-stationforge/
 
-Cultists
+Harlequins
 
 https://www.coooolstuff.com/product/july-2023-stationforge/
 
