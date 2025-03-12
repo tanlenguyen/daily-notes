@@ -91,12 +91,14 @@
             "id": "375302565c3ed114",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Humblewood Minis"
             }
           }
         ],
@@ -219,12 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Humblewood Minis"
             }
           },
           {
@@ -257,21 +260,24 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
+    "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
+    "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
+    "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
+    "Linked Articles/D&D/Source Material/Esper Genesis - Core Manual v1.2.pdf",
+    "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
+    "Linked Articles/D&D/Source Material",
+    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
+    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
+    "Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "Linked Articles/D&D/Setup upgrades.md",
+    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Adepta Sororitas.md",
-    "Linked Articles/D&D/Dungeons and Dragons Books.md",
-    "Linked Articles/D&D/Dungeons and Dragons Tables.md",
-    "Linked Articles/D&D/Setup upgrades.md",
     "Linked Articles/MtG/Commander Decks.md",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
-    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
-    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
-    "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
-    "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
-    "Linked Articles/D&D/Source Material/Esper Genesis - Core Manual v1.2.pdf",
     "2025-03-03.md",
     "2025-03-05.md",
     "2025-03-07.md",
@@ -286,12 +292,9 @@
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Partnerships.md",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Optimizations.md",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Glossary of Terms.md",
-    "Archive/Fin-Ops Notes/FinOps Certified Engineer/Getting Started with Automation.md",
     "Linked Articles/D&D/Source Material/The Griffon's Saddlebag Book One.pdf",
     "Linked Articles/D&D/Source Material/TheGriffonsSaddlebag_BookOne (1).pdf",
     "Linked Articles/D&D/Source Material/Humblewood.pdf",
-    "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
-    "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
     "Linked Articles/D&D/Source Material/Untitled",
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
