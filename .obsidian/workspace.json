@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Humblewood Minis"
+              "title": "Kill Team File Lists"
             }
           }
         ],
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humblewood Minis"
+              "title": "Outline of Kill Team File Lists"
             }
           },
           {
@@ -260,8 +260,8 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "conflict-files-obsidian-git.md",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
     "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
