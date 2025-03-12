@@ -720,3 +720,5 @@ Attribution is based on cost-causative principles while allocation is generally 
 ### Usage Optimization
 
 Usage optimization is the process of ensuring a close match between the cloud resources provisioned and the needs of the business. Usage optimization is an important tool for maximizing the value of the cloud and aids in establishing cost efficiency.
+
+#FinOps 

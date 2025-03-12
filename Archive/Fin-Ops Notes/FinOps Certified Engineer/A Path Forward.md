@@ -31,3 +31,5 @@ When it comes to sustainability decisions, you'll need to partner with others in
 Not all FinOps actions help decrease carbon emissions. Purchasing savings plans or reserved instances to save cost on resources that run consistently in an optimized state, for example, does not impact carbon use but is purely cost-reducing. Use of these commitment discounts to cover oversized or underutilized resources at a lower cost may actually create more carbon over time.
 
 In another example, when comparing regions to operate cloud services, the cost does not always match the sustainability. A region or zone that is highly sustainable due to its power source, may actually cost more due to other operational cost factors. A decision on which region to operate services based purely on the financial impacts could negatively impact your sustainability goals and vice versa.
+
+#FinOps 

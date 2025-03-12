@@ -5,3 +5,4 @@
 | White Zenithal Brush | Vallejo      |
 | Fluoro Blue Airbrush | Army Painter |
 |                      |              |
+#KillTeam 

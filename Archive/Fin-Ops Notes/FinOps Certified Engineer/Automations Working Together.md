@@ -19,3 +19,5 @@ Joe Daly, formerly Director of Cloud Optimization at Cardinal Health and Nationw
 Often, FinOps automation requires very high levels of access to your cloud environments, whether it’s just the ability [for an automation to have environment permissions] to describe how everything in your account has been configured, or the ability to change (start/stop/delete) the resources themselves. Such access could lead directly to a denial of service attack, data loss, corruption, or a confidentiality breach. Security is often cited as a major reason third-party tooling isn’t used inside organizations. It’s understandably difficult to get a security team to sign off on the use of a third-party tool that needs broad access to cloud accounts.
 
 Remember, safety and security is a drawback of automation. You can partner with your FinOps practitioner to assess options for automation and dive deeper into safety and security concerns.
+
+#FinOps 

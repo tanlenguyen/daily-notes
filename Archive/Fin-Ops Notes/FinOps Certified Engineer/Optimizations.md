@@ -88,3 +88,5 @@ For example, FinOps comes to you with an optimization opportunity. Here are a co
 - Can you vet these recommendations and pick only ones that are material enough? 
 
 With these types of requests, effort and time on your end are reduced, and maybe your motivation to take action increases. Additionally, it is okay to seek to understand why a FinOps champion is asking you to do something. Then, after testing and validating the opportunity you can both discuss the value, weigh this value against existing work, and decide on the best path forward. This means that you've done your due diligence, everyone is informed, and the business gets maximum value out of their cloud spend!
+
+#FinOps 

@@ -66,3 +66,5 @@ In addition to supporting trade-off conversations, when unit metrics are impleme
 - Support contribution margin, Customer Lifetime Value (LVT) or Customer Acquisition Cost (CAC)
 
 When the cost per unit is decreasing, you will have more flexibility for increased usage (even though your bill might be higher if you used that excess savings to increase volume/output). Increased margin will add flexibility to your engineering opportunities!
+
+#FinOps 

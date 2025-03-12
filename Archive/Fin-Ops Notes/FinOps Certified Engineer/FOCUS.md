@@ -2,3 +2,4 @@ When thinking about cost avoidance, rate reduction, and practically every FinOps
 
 **FOCUS** (FinOps Open Cost & Usage Specification) is a project designing a vendor agnostic technical specification for cloud billing data. FOCUS aims to make billing data more consistent and usable across Cloud, SaaS, and even internal billing sources, improving your understanding of your costs, and allowing you to make better decisions.
 
+#FinOps 

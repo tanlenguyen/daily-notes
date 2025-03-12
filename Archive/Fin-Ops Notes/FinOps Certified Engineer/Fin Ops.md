@@ -21,3 +21,5 @@ Pride in engineering means owning your application end to end which includes awa
 ## **Engineering Motivations**
 
 There is no magic wand to wave and make all teams collaborate and align. However, an important place to start is with empathy for others. If we are able to understand and share the motivations of other teams, then everyone is going to have a better time. This may mean asking a couple questions to better understand a finance partner or taking time to walk a leader through a complex technology term. Additionally, it can be helpful for other teams to know and empathize with the motivations and goals of you as an engineer.
+
+#FinOps 

@@ -37,3 +37,5 @@ When trying to work out how much time and effort it takes to add automation vers
 ## Continuous Improvement
 
 There are many reasons to reassess automation decisions and automations currently in place over time. For example, your organization's cloud footprint may grow and what initially didn't make sense to automate, may now prove worthwhile at scale. Or, conversely, something you did automate initially may be more complex to manage or troubleshoot that expected, causing a temporary move back to a manual process. There is also the consideration of new tooling that offers some automation as part of a package. You will need to continue, over time, the cost-benefit analysis of adding and maintaining automation.
+
+#FinOps 
