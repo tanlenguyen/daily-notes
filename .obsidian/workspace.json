@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
+                "file": "Linked Articles/Warhammer/Orks/File List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angels of Death"
+              "title": "File List"
             }
           }
         ],
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
+                "file": "Linked Articles/Warhammer/Orks/File List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Angels of Death"
+              "title": "Outline of File List"
             }
           },
           {
@@ -260,8 +260,8 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "2025-03-14.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
+    "2025-03-14.md",
     "2025-03-17.md",
     "Linked Articles/Warhammer/Orks/File List.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
