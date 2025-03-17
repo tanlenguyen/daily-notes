@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Orks/File List.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File List"
+              "title": "Angels of Death"
             }
           }
         ],
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Orks/File List.md",
+                "file": "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File List"
+              "title": "Outline of Angels of Death"
             }
           },
           {
@@ -260,19 +260,21 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/3D File merchants.md",
+    "2025-03-14.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Angels of Death.md",
+    "2025-03-17.md",
     "Linked Articles/Warhammer/Orks/File List.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Adepta Sororitas.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Pathfinders.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Pathfinders.md",
+    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
+    "Linked Articles/Warhammer/3D File merchants.md",
     "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
-    "2025-03-14.md",
     "Linked Articles/FinOps/QuickSight.md",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/CloudOps.md",
@@ -292,8 +294,6 @@
     "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
     "Linked Articles/D&D/Source Material",
     "Linked Articles/D&D/Dungeons and Dragons Books.md",
-    "Linked Articles/MtG/Commander Decks.md",
-    "2025-03-05.md",
     "Linked Articles/D&D/Source Material/The Griffon's Saddlebag Book One.pdf",
     "Linked Articles/D&D/Source Material/TheGriffonsSaddlebag_BookOne (1).pdf",
     "Pasted image 20250305102241.png",
