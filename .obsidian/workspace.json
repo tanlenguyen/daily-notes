@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
+                "file": "2025-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kill Team File Lists"
+              "title": "2025-03-20"
             }
           }
         ],
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
+                "file": "2025-03-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kill Team File Lists"
+              "title": "Outline of 2025-03-20"
             }
           },
           {
@@ -260,6 +260,8 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
+    "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
+    "2025-03-20.md",
     "2025-03-17.md",
     "2025-03-19.md",
     "2025-03-14.md",
@@ -286,8 +288,6 @@
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/CloudOps.md",
     "Linked Articles/FinOps/Config Costs going up.md",
-    "2025-03-03.md",
-    "2025-03-04.md",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
