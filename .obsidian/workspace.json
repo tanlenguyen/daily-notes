@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-21.md",
+                "file": "Linked Articles/Warhammer/Thousand Sons/File List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "File List"
             }
           }
         ],
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-03-21.md",
+                "file": "Linked Articles/Warhammer/Thousand Sons/File List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-21"
+              "title": "Outline of File List"
             }
           },
           {
@@ -260,8 +260,10 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "2025-03-20.md",
     "2025-03-21.md",
+    "Linked Articles/Warhammer/Thousand Sons/File List.md",
+    "Linked Articles/Warhammer/Thousand Sons",
+    "2025-03-20.md",
     "Linked Articles/FinOps/Config Costs going up.md",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/QuickSight.md",
@@ -285,7 +287,6 @@
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Hand of the Archon.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Death Guard.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Custorks.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Adepta Sororitas.md",
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
@@ -295,7 +296,6 @@
     "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
     "Linked Articles/D&D/Source Material",
     "Linked Articles/D&D/Source Material/The Griffon's Saddlebag Book One.pdf",
-    "Linked Articles/D&D/Source Material/TheGriffonsSaddlebag_BookOne (1).pdf",
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
     "Pasted image 20241010140736.png",
