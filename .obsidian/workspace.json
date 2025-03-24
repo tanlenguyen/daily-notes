@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "2025-03-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Painting Scheme"
+              "title": "2025-03-24"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "2025-03-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Painting Scheme"
+              "title": "Outline of 2025-03-24"
             }
           },
           {
@@ -194,8 +194,9 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/Thousand Sons/File List.md",
+    "2025-03-19.md",
     "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+    "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "2025-03-24.md",
     "2025-03-21.md",
     "Linked Articles/Warhammer/Thousand Sons",
@@ -204,7 +205,6 @@
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/QuickSight.md",
     "Linked Articles/FinOps/CloudOps.md",
-    "2025-03-19.md",
     "2025-03-17.md",
     "2025-03-13.md",
     "2025-03-07.md",
