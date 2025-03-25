@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-24.md",
+                "file": "2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "2025-03-25"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-03-24.md",
+                "file": "2025-03-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-24"
+              "title": "Outline of 2025-03-25"
             }
           },
           {
@@ -194,8 +194,9 @@
   },
   "active": "375302565c3ed114",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "2025-03-24.md",
+    "2025-03-25.md",
+    "conflict-files-obsidian-git.md",
     "2025-03-19.md",
     "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
@@ -220,7 +221,6 @@
     "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
     "Linked Articles/MtG/Commander Decks.md",
     "Linked Articles/Warhammer/Kill Team/Painting Schemes/Thousand Sons.md",
-    "Linked Articles/Warhammer/Kill Team/Painting Schemes/Pathfinders.md",
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
