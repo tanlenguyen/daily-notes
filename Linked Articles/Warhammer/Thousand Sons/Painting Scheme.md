@@ -5,6 +5,7 @@
 | Thousand Sons Blue | Citadel |
 | Agrax Earthshade   | Citadel |
 | Nuln Oil           | Citadel |
+|                    |         |
 1. Prime White Vallejo
 2. Airbrush with Thllax Gold
 3. Agrax Earthshade on Gold
