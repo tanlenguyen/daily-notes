@@ -3,7 +3,6 @@
 | ------------------ | ------- |
 | Thallax Gold (Air) | Citadel |
 | Thousand Sons Blue | Citadel |
-| Agrax Earthshade   | Citadel |
 | Nuln Oil           | Citadel |
 |                    |         |
 1. Prime White Vallejo
