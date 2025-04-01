@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "Linked Articles/FinOps/CloudOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Painting Scheme"
+              "title": "CloudOps"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "Linked Articles/FinOps/CloudOps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Painting Scheme"
+              "title": "Outline of CloudOps"
             }
           },
           {
@@ -208,11 +208,14 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
+    "2025-03-17.md",
+    "2025-03-06.md",
+    "2025-03-04.md",
+    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "2025-03-27.md",
     "2025-03-24.md",
     "conflict-files-obsidian-git.md",
-    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "2025-03-26.md",
     "2025-03-25.md",
     "2025-03-19.md",
@@ -223,18 +226,15 @@
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/QuickSight.md",
     "Linked Articles/FinOps/CloudOps.md",
-    "2025-03-17.md",
     "2025-03-13.md",
     "2025-03-07.md",
     "2025-03-03.md",
-    "2025-03-04.md",
     "2025-03-05.md",
     "Linked Articles/Warhammer/Kill Team/Kill Team File Lists.md",
     "2025-03-14.md",
     "Linked Articles/D&D/Setup upgrades.md",
     "Linked Articles/D&D/Dungeons and Dragons Tables.md",
     "Linked Articles/D&D/Dungeons and Dragons Books.md",
-    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
