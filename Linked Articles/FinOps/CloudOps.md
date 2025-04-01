@@ -37,6 +37,8 @@ cloudwatch->Logs Insights->Select DataProduction-vpc-flowlogs, and typed into th
 # Calculation
 
 The percent change can be calculated using the formula:
-
+$$
+Percent Change = (New Value - Old Value)/ Old Value​×100
+$$
 
 #FinOps 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/FinOps/QuickSight.md",
+                "file": "Linked Articles/FinOps/CloudOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuickSight"
+              "title": "CloudOps"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/FinOps/QuickSight.md",
+                "file": "Linked Articles/FinOps/CloudOps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QuickSight"
+              "title": "Outline of CloudOps"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
-    "Linked Articles/FinOps/CloudOps.md",
     "Linked Articles/FinOps/QuickSight.md",
+    "Linked Articles/FinOps/CloudOps.md",
     "Archive/2024-09-26.md",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/Config Costs going up.md",
