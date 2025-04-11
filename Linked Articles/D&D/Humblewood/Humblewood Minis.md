@@ -7,6 +7,7 @@
 - https://www.myminifactory.com/object/3d-print-gator-folk-and-mushroomed-gators-presupported-mushroom-bayou-238523
 - https://www.myminifactory.com/object/3d-print-gatorfolk-279761
 - http://coooolstuff.com/product/comet-lord-201910-3d-printable-model-stl/
+- https://www.coooolstuff.com/product/december-2024-the-dragon-trappers-lodge/
 - 
 # Jerbeen
 https://www.coooolstuff.com/product/september-2024-the-dragon-trappers-lodge/
