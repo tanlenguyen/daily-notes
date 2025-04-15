@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-14.md",
+                "file": "2025-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "2025-04-15"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-04-14.md",
+                "file": "2025-04-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-14"
+              "title": "Outline of 2025-04-15"
             }
           },
           {
@@ -206,9 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c08ba488a17b0e6",
+  "active": "fdf5950258bbe54f",
   "lastOpenFiles": [
     "2025-04-14.md",
+    "2025-04-15.md",
     "2025-04-12.md",
     "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
     "2025-04-11.md",
@@ -233,7 +234,6 @@
     "Archive/2025-02-04.md",
     "Archive/2025-02-05.md",
     "Archive/2025-02-10.md",
-    "Archive/2025-03-03.md",
     "Linked Articles/Warhammer/Thousand Sons",
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
