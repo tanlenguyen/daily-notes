@@ -7,6 +7,14 @@ IAM Identity Center for all SSO and Permission sets for accounts that need acces
 
 There is a button called "Simulate" on every IAM role, that will lead to the simulator.
 
+# Adding User to a group
+1. Check to add user to AD user group. 
+2. Go to IAM Identity Center
+3. Multi-Account Permissions->AWS accounts.
+4. Find the Account the User needs access to
+5. Add the level of permissions needed then add the user to the account
+6. Wait 10 mins, and close the ticket after giving permissions
+
 # Removing disabled users
 At this point our standard operating procedure for these adhocs should be:
 
@@ -43,4 +51,4 @@ $$
 Percent Change = (New Value - Old Value)/ Old Value​×100
 $$
 
-#FinOps 
+#FinOps #CloudOps 
