@@ -1,3 +1,5 @@
+# AWS to Azure
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/
 
 When adding [[QuickSight]] users to Admin, be sure to share all datasets with them too. 
 
