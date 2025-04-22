@@ -1,7 +1,9 @@
 Tyberos
 https://www.coooolstuff.com/product/august-2022-atlan-forge/
 
-Infantry
+Troops
+Captains
+https://www.coooolstuff.com/product/october-2024-atlan-forge/
 Jump Astartes
 https://www.coooolstuff.com/product/september-2023-atlan-forge/
 Aggressors
@@ -18,7 +20,6 @@ Shark Riders
 https://www.coooolstuff.com/product/february-2023-atlan-forge/
 Chaplain
 https://www.coooolstuff.com/product/march-2024-atlan-forge/
-https://www.coooolstuff.com/product/october-2024-atlan-forge/
 Outriders
 https://www.coooolstuff.com/product/february-2023-atlan-forge/
 
