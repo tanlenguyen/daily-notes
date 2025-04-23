@@ -1,3 +1,4 @@
+# 2000 Points
 +++++++++++++++++++++++++++++++++++++++++++++++
 + FACTION KEYWORD: Imperium - Adeptus Astartes - Raven Guard
 + DETACHMENT: Gladius Task Force
@@ -27,7 +28,8 @@ Enhancement: The Honour Vehement (+15 pts)
 • 9x Intercessor: 9 with Bolt Pistol, Bolt Rifle, Close Combat Weapon
 
 6x Aggressor Squad (240 pts)
-• 1x Aggressor Sergeant: Twin Power Fist, Flamestorm Gauntlets
+• 1x Aggressor Sergeant: Twin Power Fist, Flamestorm Gauntl
+ets
 • 5x Aggressors: 5 with Twin Power Fist, Flamestorm Gauntlets
 10x Assault Intercessors with Jump Packs (160 pts)
 • 1x Assault Intercessor Sergeant with Jump Pack: Heavy Bolt Pistol, Astartes Chainsword

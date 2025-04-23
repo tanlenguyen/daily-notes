@@ -1,3 +1,4 @@
+# 2000 Points
 +++++++++++++++++++++++++++++++++++++++++++++++
 + FACTION KEYWORD: Imperium - Adeptus Custodes
 + DETACHMENT: Auric Champions
