@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Custodes/Army List.md",
+                "file": "Linked Articles/Warhammer/Carcharodons/File List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Army List"
+              "title": "File List"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/Warhammer/Custodes/Army List.md",
+                "file": "Linked Articles/Warhammer/Carcharodons/File List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Army List"
+              "title": "Outline of File List"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/Carcharodons/Army List.md",
     "Linked Articles/Warhammer/Custodes/Army List.md",
+    "Linked Articles/Warhammer/Carcharodons/Army List.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "Linked Articles/Warhammer/Carcharodons/File List.md",
     "2025-04-21.md",
