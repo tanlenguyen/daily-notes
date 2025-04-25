@@ -51,4 +51,9 @@ $$
 Percent Change = (New Value - Old Value)/ Old Value​×100
 $$
 
+
+# Website Infrastructure
+Digital does not scale with traffic, so no elastic load balancers with the website
+
+
 #FinOps #CloudOps 
