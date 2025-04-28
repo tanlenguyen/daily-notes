@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "573ad995c2800b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-21"
-            }
-          },
-          {
-            "id": "a140372524e73ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto Trade Bot/main.js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "main.js"
-            }
-          },
-          {
             "id": "d3686aaa9fe35b68",
             "type": "leaf",
             "state": {
@@ -50,7 +22,7 @@
             }
           },
           {
-            "id": "38a763d34dccded4",
+            "id": "375302565c3ed114",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Painting Scheme"
             }
+          },
+          {
+            "id": "8c08ba488a17b0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Cloud Dashboard"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+                "file": "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humblewood Minis"
+              "title": "Outline of Multi-Cloud Dashboard"
             }
           },
           {
@@ -203,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,44 +206,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38a763d34dccded4",
+  "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
-    "2025-03-10.md",
-    "Archive/2025-03-07.md",
-    "Archive/2025-03-06.md",
-    "Archive/2025-03-05.md",
-    "Archive/2025-03-04.md",
-    "Archive/2025-03-03.md",
-    "Archive/2025-03-31.md",
-    "Archive/2025-03-27.md",
-    "Archive/2025-03-26.md",
-    "Archive/2025-03-25.md",
-    "Archive/2025-03-24.md",
-    "Archive/2025-03-21.md",
-    "Archive/2025-03-20.md",
-    "Archive/2025-03-19.md",
-    "Archive/2025-03-17.md",
-    "Archive/2025-03-14.md",
-    "Archive/2025-03-13.md",
-    "Archive/2025-03-11.md",
-    "Archive/2025-03-10.md",
-    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
-    "Linked Articles/Warhammer/3D File merchants.md",
+    "Linked Articles/FinOps/Config Costs going up.md",
+    "Linked Articles/FinOps/CloudOps.md",
+    "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
+    "Linked Articles/FinOps/QuickSight.md",
+    "2025-04-25.md",
+    "Linked Articles/Warhammer/Carcharodons/File List.md",
+    "Linked Articles/Warhammer/Custodes/Army List.md",
+    "Linked Articles/Warhammer/Carcharodons/Army List.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
-    "Linked Articles/Warhammer/Orks/File List.md",
-    "Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "2025-04-21.md",
+    "2025-04-17.md",
+    "Linked Articles/Warhammer/3D File merchants.md",
+    "2025-04-14.md",
+    "Linked Articles/Warhammer/Custodes",
+    "Linked Articles/Warhammer/Carcharodons",
     "Linked Articles/D&D/Dungeons and Dragons Tables.md",
-    "2025-03-31.md",
-    "Linked Articles/D&D/Untitled",
+    "Linked Articles/D&D/Dungeons and Dragons Books.md",
+    "Linked Articles/D&D/Humblewood/The Waffle Warren.md",
+    "Linked Articles/D&D/Humblewood/Humblewood Minis.md",
+    "Linked Articles/D&D/Humblewood/Locations in Humblewood DM Side.md",
+    "2025-04-18.md",
+    "2025-04-02.md",
+    "Linked Articles/Untitled.md",
+    "2025-04-16.md",
+    "2025-04-15.md",
+    "2025-04-12.md",
+    "2025-04-11.md",
+    "2025-04-10.md",
     "Linked Articles/Warhammer/Thousand Sons",
     "Linked Articles/Warhammer/Orks",
+    "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
     "Linked Articles/D&D/Source Material/Esper Genesis - Core Manual v1.2.pdf",
     "Linked Articles/D&D/Source Material/Dungeons and Dragons Players Handbook 2024.pdf",
-    "Linked Articles/D&D/Source Material",
-    "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
     "Pasted image 20241010140736.png",

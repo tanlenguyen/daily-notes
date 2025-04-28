@@ -5,4 +5,4 @@ https://blogs.oracle.com/datawarehousing/post/multicloud-cost-management-with-au
 
 https://www.anodot.com/cloud-cost-management/reporting/
 
-#FinOps 
+#FinOps #CloudOps 
