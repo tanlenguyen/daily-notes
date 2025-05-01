@@ -5,6 +5,8 @@ Edge Miniatures
 Station Forge
 Edge Miniatures 
 ICHI Forge
+Dakka Dakka Store
+Solwyte
 
 # Trench Crusade
 ## Trench Pilgrims
