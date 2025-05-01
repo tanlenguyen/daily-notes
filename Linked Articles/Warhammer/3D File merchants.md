@@ -12,6 +12,12 @@ Archvillain Games
 Across the Realms
 Bite the Bullet
 Dragon Trappers Lodge
+Artisan Guild
+Loot Studios
+Cast N Play
+Clay Beast
+Gearguts Mek Shop
+The Makers Cult
 
 # Trench Crusade
 ## Trench Pilgrims
