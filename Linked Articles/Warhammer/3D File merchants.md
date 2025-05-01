@@ -7,6 +7,11 @@ Edge Miniatures
 ICHI Forge
 Dakka Dakka Store
 Solwyte
+Imperitum Art Miniatures
+Archvillain Games
+Across the Realms
+Bite the Bullet
+Dragon Trappers Lodge
 
 # Trench Crusade
 ## Trench Pilgrims
