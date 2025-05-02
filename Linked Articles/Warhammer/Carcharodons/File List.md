@@ -18,8 +18,6 @@ Phobos
 https://www.coooolstuff.com/product/december-2024-atlan-forge/
 Dreadnought
 https://www.coooolstuff.com/product/august-2024-atlan-forge/
-Shark Riders
-https://www.coooolstuff.com/product/february-2023-atlan-forge/
 Chaplain
 https://www.coooolstuff.com/product/march-2024-atlan-forge/
 Outriders

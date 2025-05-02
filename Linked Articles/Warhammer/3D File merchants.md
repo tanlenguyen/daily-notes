@@ -34,4 +34,11 @@ https://www.coooolstuff.com/product-category/miniatures/terrain-essentials/
 
 https://www.coooolstuff.com/product-category/miniatures/big-bad-evil-guy/?mc_cid=28b3e33d1d&mc_eid=87c87974fa
 
+# Emperor's Children
+Daemon Prince
+http://coooolstuff.com/product/may-2024-stationforge/
+# World Eaters
+Daemon Prince
+https://www.coooolstuff.com/product/march-2024-stationforge/
+
 #KillTeam #DnD  #3DPrint 
