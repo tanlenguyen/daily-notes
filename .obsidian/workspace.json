@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-02.md",
+                "file": "2025-05-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "2025-05-05"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-02.md",
+                "file": "2025-05-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-02"
+              "title": "Outline of 2025-05-05"
             }
           },
           {
@@ -208,6 +208,8 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
+    "2025-05-05.md",
+    "2025-05-02.md",
     "conflict-files-obsidian-git.md",
     "Archive/2025-04-30.md",
     "Archive/2025-04-25.md",
@@ -225,7 +227,6 @@
     "Archive/2025-04-07.md",
     "Archive/2025-04-03.md",
     "Archive/2025-04-02.md",
-    "2025-05-02.md",
     "Linked Articles/Warhammer/3D File merchants.md",
     "2025-05-01.md",
     "Linked Articles/Warhammer/Death Guard/File List.md",
@@ -236,7 +237,6 @@
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Linked Articles/FinOps/Config Costs going up.md",
     "Linked Articles/FinOps/CloudOps.md",
-    "Linked Articles/FinOps/QuickSight.md",
     "Linked Articles/Warhammer/Custodes",
     "Linked Articles/Warhammer/Carcharodons",
     "Linked Articles/Warhammer/Thousand Sons",
