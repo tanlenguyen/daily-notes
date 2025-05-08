@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-06.md",
+                "file": "2025-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-06"
+              "title": "2025-05-08"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-06.md",
+                "file": "2025-05-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-06"
+              "title": "Outline of 2025-05-08"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
-    "2025-05-05.md",
     "2025-05-06.md",
+    "2025-05-08.md",
+    "2025-05-05.md",
     "2025-05-02.md",
     "conflict-files-obsidian-git.md",
     "Archive/2025-04-30.md",
@@ -236,7 +237,6 @@
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
-    "Linked Articles/FinOps/Config Costs going up.md",
     "Linked Articles/Warhammer/Custodes",
     "Linked Articles/Warhammer/Carcharodons",
     "Linked Articles/Warhammer/Thousand Sons",
