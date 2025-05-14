@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-13.md",
+                "file": "2025-05-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-13"
+              "title": "2025-05-14"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-13.md",
+                "file": "2025-05-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-13"
+              "title": "Outline of 2025-05-14"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "8c08ba488a17b0e6",
   "lastOpenFiles": [
-    "2025-05-12.md",
     "2025-05-13.md",
+    "2025-05-14.md",
+    "2025-05-12.md",
     "2025-05-09.md",
     "2025-05-08.md",
     "2025-05-06.md",
@@ -233,7 +234,6 @@
     "Archive/2025-04-03.md",
     "Archive/2025-04-02.md",
     "Linked Articles/Warhammer/3D File merchants.md",
-    "2025-05-01.md",
     "Linked Articles/Warhammer/Emperor's Children",
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
