@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "2025-05-14"
             }
+          },
+          {
+            "id": "f156c1bc12e0d056",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c08ba488a17b0e6",
+  "active": "f156c1bc12e0d056",
   "lastOpenFiles": [
     "2025-05-13.md",
     "2025-05-14.md",
