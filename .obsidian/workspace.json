@@ -53,12 +53,14 @@
             "id": "f156c1bc12e0d056",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "2025-05-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2025-05-20"
             }
           }
         ],
@@ -181,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-14.md",
+                "file": "2025-05-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-14"
+              "title": "Outline of 2025-05-20"
             }
           },
           {
@@ -220,6 +222,7 @@
   },
   "active": "f156c1bc12e0d056",
   "lastOpenFiles": [
+    "2025-05-20.md",
     "2025-05-13.md",
     "2025-05-14.md",
     "2025-05-12.md",
@@ -245,7 +248,6 @@
     "Archive/2025-04-07.md",
     "Archive/2025-04-03.md",
     "Archive/2025-04-02.md",
-    "Linked Articles/Warhammer/3D File merchants.md",
     "Linked Articles/Warhammer/Emperor's Children",
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
