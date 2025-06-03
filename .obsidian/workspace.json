@@ -53,14 +53,17 @@
             "id": "f156c1bc12e0d056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2025-05-30.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-05-30"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -183,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-30.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-30"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -222,8 +225,10 @@
   },
   "active": "f156c1bc12e0d056",
   "lastOpenFiles": [
-    "2025-05-28.md",
+    "Untitled.canvas",
     "2025-05-30.md",
+    "Linked Articles/MtG/Commander Decks.md",
+    "2025-05-28.md",
     "Linked Articles/Warhammer/3D File merchants.md",
     "2025-05-27.md",
     "2025-05-20.md",
@@ -246,8 +251,6 @@
     "Archive/2025-04-14.md",
     "Archive/2025-04-12.md",
     "Archive/2025-04-11.md",
-    "Archive/2025-04-10.md",
-    "Archive/2025-04-09.md",
     "Linked Articles/Warhammer/Emperor's Children",
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
@@ -261,7 +264,6 @@
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
     "Pasted image 20241010140736.png",
-    "Untitled.canvas",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240809143623.png",
     "Archive/Fin-Ops Notes/FinOps Certified Engineer/Images/Pasted image 20240808135534.png"
   ]
