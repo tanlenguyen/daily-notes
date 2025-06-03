@@ -53,17 +53,14 @@
             "id": "f156c1bc12e0d056",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2025-06-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-06-03"
             }
           }
         ],
@@ -186,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "2025-06-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-06-03"
             }
           },
           {
@@ -226,6 +223,7 @@
   "active": "f156c1bc12e0d056",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "2025-06-03.md",
     "2025-05-30.md",
     "Linked Articles/MtG/Commander Decks.md",
     "2025-05-28.md",
@@ -250,7 +248,6 @@
     "Archive/2025-04-15.md",
     "Archive/2025-04-14.md",
     "Archive/2025-04-12.md",
-    "Archive/2025-04-11.md",
     "Linked Articles/Warhammer/Emperor's Children",
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
