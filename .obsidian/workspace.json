@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-04.md",
+                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-04"
+              "title": "Painting Scheme"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-04.md",
+                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-04"
+              "title": "Outline of Painting Scheme"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "f156c1bc12e0d056",
   "lastOpenFiles": [
-    "2025-06-03.md",
     "2025-06-04.md",
+    "2025-06-03.md",
     "Untitled.canvas",
     "2025-05-30.md",
     "Linked Articles/MtG/Commander Decks.md",
