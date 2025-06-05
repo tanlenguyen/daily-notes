@@ -1,14 +1,14 @@
 # List of homebrew decks
 
-|          Commander          | Colors | Power |         Theme          |
-| :-------------------------: | :----: | :---: | :--------------------: |
-|   Astarion, the Decadent    |   WB   |   6   |       Life drain       |
-|   Karlach/Hardy Outlander   |   RG   |   6   |     Stompy combat      |
-|  Kastral, the Windcrested   |   WU   |   6   |      Bird tribal       |
-|  Pantlaza, the Sunfavored   |  WRG   |   6   |    Dinosaur tribal     |
-| Shu-Yun, the Silent Tepest  |  WUR   |   5   |        Voltron         |
-| Yuriko, the Tiger's Shadow  |   UB   |   6   |        Ninjutsu        |
-| Valduk, Keeper of the Flame |   R    |   5   | Artifact heavy voltron |
+|          Commander          | Colors | Power |            Theme            |
+| :-------------------------: | :----: | :---: | :-------------------------: |
+|   Astarion, the Decadent    |   WB   |   6   |         Life drain          |
+|   Karlach/Hardy Outlander   |   RG   |   6   |        Stompy combat        |
+|  Kastral, the Windcrested   |   WU   |   6   |         Bird tribal         |
+|  Pantlaza, the Sunfavored   |  WRG   |   6   |       Dinosaur tribal       |
+| Shu-Yun, the Silent Tepest  |  WUR   |   5   |    Cantrip/Buff Voltron     |
+| Yuriko, the Tiger's Shadow  |   UB   |   6   |          Ninjutsu           |
+| Valduk, Keeper of the Flame |   R    |   5   | Artifact/Aura heavy voltron |
 # List of Precons
 
 |        Commander        | Colors | Power |                   Theme                    |
