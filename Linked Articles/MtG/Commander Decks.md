@@ -9,6 +9,7 @@
 | Shu-Yun, the Silent Tepest  |  WUR   |   5   |    Cantrip/Buff Voltron     |
 | Yuriko, the Tiger's Shadow  |   UB   |   6   |          Ninjutsu           |
 | Valduk, Keeper of the Flame |   R    |   5   | Artifact/Aura heavy voltron |
+| Sisay, Weatherlight Captain | WUBRG  |   7   |   Legendary Superfriends    |
 # List of Precons
 
 |        Commander        | Colors | Power |                   Theme                    |
