@@ -1,4 +1,5 @@
-# Checklist
+# Config Costs Going Up
+## Checklist
 1. Checking Splunk for any increase in items with the following inquiry:
 
 ```
@@ -45,7 +46,7 @@ Change the dates
 
 3. f
 
-# Preventative Measures
+## Preventative Measures
 Putting Cost Anomaly alerts on the resources discovered from the Athena queries would help. In some rare cases it might be worth it to put weekly and daily alerts on in case of rates of increase. 
 
 #FinOps #CloudOps 
