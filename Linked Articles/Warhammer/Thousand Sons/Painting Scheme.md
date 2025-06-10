@@ -47,6 +47,12 @@ Hexwraith Flame
 ### Soulreaper Cannon
 
 # Tzaangors
-Baloth base
-Drakenhof Nightshade
+1. Baloth base
+2. Drakenhof Nightshade
+3. Retributor Gold on Trim
+4. Reikland Flesh on gold 
+5. Stormhost Silver for metal bits
+6. Screamer Pink for base of discs, highlight with drybrush of Pink Horror
+7. Feathers are varying colors
+8. Tesseract glow and Hexwrath Flame gradient.
 
