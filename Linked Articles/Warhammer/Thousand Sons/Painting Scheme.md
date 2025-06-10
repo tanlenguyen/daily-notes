@@ -19,6 +19,7 @@
 | Soulstone Blue     | Citadel |
 | Warpstone Green    | Citadel |
 | Abaddon Black      | Citadel |
+# Space Marines
 1. Prime White Vallejo
 2. Airbrush with Thllax Gold
 3. Abaddon Black in gaps between armor in palms, and on the runes on the guns
@@ -39,9 +40,13 @@
 18. Basing with AK Desert Sand and plants 
 19. Army Painter Satin Varnish
 
-# Weapon Schemes
-## Warpflamer 
+## Weapon Schemes
+###  Warpflamer 
 Hexwraith Flame
 
-## Soulreaper Cannon
+### Soulreaper Cannon
+
+# Tzaangors
+Baloth base
+Drakenhof Nightshade
 
