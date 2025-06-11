@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/3D File merchants.md",
+                "file": "Linked Articles/FinOps/FinOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D File merchants"
+              "title": "FinOps"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "2025-06-11"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-11.md",
+                "file": "Linked Articles/FinOps/FinOps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-11"
+              "title": "Outline of FinOps"
             }
           },
           {
@@ -220,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f156c1bc12e0d056",
+  "active": "d3686aaa9fe35b68",
   "lastOpenFiles": [
-    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "2025-06-11.md",
+    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "2025-06-10.md",
     "Linked Articles/FinOps/FinOps.md",
     "Linked Articles/FinOps/RCAs.md",
