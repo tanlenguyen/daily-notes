@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-12.md",
+                "file": "2025-05-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-12"
+              "title": "2025-05-05"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-12.md",
+                "file": "2025-05-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-12"
+              "title": "Outline of 2025-05-05"
             }
           },
           {
@@ -234,16 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f4cba2c2efb8e6c",
+  "active": "fdf5950258bbe54f",
   "lastOpenFiles": [
-    "2025-06-11.md",
+    "Linked Articles/FinOps/QuickSight.md",
     "2025-06-12.md",
+    "2025-06-11.md",
     "2025-06-10.md",
     "Linked Articles/FinOps/CloudOps.md",
     "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/FinOps/FinOps.md",
     "Linked Articles/FinOps/RCAs.md",
-    "Linked Articles/FinOps/QuickSight.md",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
     "Pasted image 20250606102844.png",
     "Linked Articles/MtG/Lathril, Blade of the Elves.md",
