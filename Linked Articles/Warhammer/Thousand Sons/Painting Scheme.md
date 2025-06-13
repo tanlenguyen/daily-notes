@@ -21,7 +21,7 @@
 | Abaddon Black      | Citadel |
 # Space Marines
 1. Prime White Vallejo
-2. Airbrush with Thllax Gold
+2. Airbrush with Thallax Gold
 3. Abaddon Black in gaps between armor in palms, and on the runes on the guns
 4. Base coat with Thousand Sons Blue
 5. Reikland Flesh shade on all metal 

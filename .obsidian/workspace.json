@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-13.md",
+                "file": "Linked Articles/Journaling/Quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "Quotes"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-13.md",
+                "file": "Linked Articles/Journaling/Quotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-13"
+              "title": "Outline of Quotes"
             }
           },
           {
@@ -236,14 +236,16 @@
   },
   "active": "7f4cba2c2efb8e6c",
   "lastOpenFiles": [
-    "2025-05-05.md",
+    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+    "Linked Articles/Journaling/Quotes.md",
+    "Linked Articles/Journaling",
     "2025-06-13.md",
+    "2025-05-05.md",
     "Linked Articles/FinOps/QuickSight.md",
     "2025-06-12.md",
     "2025-06-11.md",
     "2025-06-10.md",
     "Linked Articles/FinOps/CloudOps.md",
-    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/FinOps/FinOps.md",
     "Linked Articles/FinOps/RCAs.md",
     "Linked Articles/FinOps/Multi-Cloud Dashboard.md",
@@ -263,7 +265,6 @@
     "2025-05-12.md",
     "2025-05-09.md",
     "2025-05-08.md",
-    "2025-05-06.md",
     "Linked Articles/Warhammer/Emperor's Children",
     "Linked Articles/Warhammer/World Eaters",
     "Linked Articles/Warhammer/Death Guard",
@@ -273,7 +274,6 @@
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Humblewood/Gm-Screen.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
-    "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
     "Pasted image 20241010140736.png",
