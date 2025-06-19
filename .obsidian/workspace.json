@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-19.md",
+                "file": "Linked Articles/MtG/Lathril, Blade of the Elves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-19"
+              "title": "Lathril, Blade of the Elves"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-06-19.md",
+                "file": "Linked Articles/MtG/Lathril, Blade of the Elves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-19"
+              "title": "Outline of Lathril, Blade of the Elves"
             }
           },
           {
@@ -236,8 +236,8 @@
   },
   "active": "7f4cba2c2efb8e6c",
   "lastOpenFiles": [
-    "2025-06-18.md",
     "2025-06-19.md",
+    "2025-06-18.md",
     "Linked Articles/MtG/Commander Decks.md",
     "2025-06-16.md",
     "Linked Articles/Journaling/Quotes.md",
