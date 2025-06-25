@@ -9,9 +9,9 @@
 |   Shu-Yun, the Silent Tepest    |  WUR   |   3   |    Cantrip/Buff Voltron     |
 |   Yuriko, the Tiger's Shadow    |   UB   |   4   |          Ninjutsu           |
 |   Valduk, Keeper of the Flame   |   R    |   3   | Artifact/Aura heavy voltron |
-|   Sisay, Weatherlight Captain   | WUBRG  |   4   |   Legendary Superfriends    |
+|   Sisay, Weatherlight Captain   | WUBRG  |   4   | Meme Legendary Superfriends |
 |          Vivi Orintier          |   UR   |   4   |        Spellslinger         |
-| Asmoranomardicadaistinaculdacar |   BR   |   3   |  Discard/Token Generation   |
+| Asmoranomardicadaistinaculdacar |   BR   |   3   |   Discard/Food Generation   |
 |                                 |        |       |                             |
 # List of Precons
 
