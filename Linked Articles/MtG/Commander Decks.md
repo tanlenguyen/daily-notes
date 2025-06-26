@@ -12,6 +12,7 @@
 |   Sisay, Weatherlight Captain   | WUBRG  |   4   | Meme Legendary Superfriends |
 |          Vivi Orintier          |   UR   |   4   |        Spellslinger         |
 | Asmoranomardicadaistinaculdacar |   BR   |   3   |   Discard/Food Generation   |
+|      Admiral Beckett Brass      |  UBR   |   4   |        Pirate tribal        |
 |                                 |        |       |                             |
 # List of Precons
 
