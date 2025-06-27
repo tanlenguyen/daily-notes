@@ -67,12 +67,14 @@
             "id": "926477748bf3661d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Linked Articles/MtG/Lathril Buylist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Lathril Buylist"
             }
           }
         ],
@@ -235,6 +237,7 @@
   },
   "active": "926477748bf3661d",
   "lastOpenFiles": [
+    "Linked Articles/MtG/Lathril Buylist.md",
     "Linked Articles/Warhammer/Carcharodons/File List.md",
     "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/Warhammer/Custodes/Army List.md",
@@ -262,7 +265,6 @@
     "Archive/2025-03-05.md",
     "Archive/2025-03-04.md",
     "Archive/2025-03-03.md",
-    "Archive/2025-03-31.md",
     "Linked Articles/D&D/Untitled",
     "Linked Articles/Warhammer/Thousand Sons",
     "Linked Articles/Warhammer/Orks",
