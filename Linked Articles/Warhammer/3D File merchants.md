@@ -5,8 +5,22 @@ Edge Miniatures
 Station Forge
 Edge Miniatures 
 ICHI Forge
+Dakka Dakka Store
+Solwyte
+Imperitum Art Miniatures
+Archvillain Games
+Across the Realms
+Bite the Bullet
+Dragon Trappers Lodge
+Artisan Guild
+Loot Studios
+Cast N Play
+Clay Beast
+Gearguts Mek Shop
+The Makers Cult
 
 # Trench Crusade
+https://www.coooolstuff.com/product-category/miniatures/sir-nicholas/
 ## Trench Pilgrims
 https://www.coooolstuff.com/product-category/miniatures/solwyte-studio/
 # Novitiates
