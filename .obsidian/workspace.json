@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "3D File merchants"
             }
+          },
+          {
+            "id": "926477748bf3661d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38a763d34dccded4",
+  "active": "926477748bf3661d",
   "lastOpenFiles": [
     "Linked Articles/Warhammer/Carcharodons/File List.md",
     "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
