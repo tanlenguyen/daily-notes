@@ -46,13 +46,19 @@ Hexwraith Flame
 
 ### Soulreaper Cannon
 
-# Tzaangors
-1. Baloth base
-2. Drakenhof Nightshade
-3. Retributor Gold on Trim
-4. Reikland Flesh on gold 
-5. Stormhost Silver for metal bits
-6. Screamer Pink for base of discs, highlight with drybrush of Pink Horror
-7. Feathers are varying colors
-8. Tesseract glow and Hexwrath Flame gradient.
+# Tzaangor Shaman
+1. Baloth base skin
+2. Drakenhof Nightshade on skin
+3. Wraithbone on horns
+4. Ahriman Blue on inside of armor 
+5. Retributor Gold on Trim 
+6. Reikland Flesh on gold, bone, and horns
+7. Stormhost Silver for metal bits
+8. Screamer Pink for base of discs, highlight with drybrush of Pink Horror
+9. Screamer pink and Doomfire Magenta for underside
+10. Feathers are varying colors
+11. Hexwrath Flame from bottom to Tesseract glow top gradient.
+12. Various technical gemstones
+13. Alien purple speed paint and Druchii Violet shade
+14. Druchii Violet shade on blades
 
