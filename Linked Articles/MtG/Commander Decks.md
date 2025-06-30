@@ -13,7 +13,7 @@
 |          Vivi Orintier          |   UR   |   4   |        Spellslinger         |
 | Asmoranomardicadaistinaculdacar |   BR   |   3   |   Discard/Food Generation   |
 |      Admiral Beckett Brass      |  UBR   |   4   |        Pirate tribal        |
-|                                 |        |       |                             |
+|       Eshki Temur's Roar        |  URG   |       |                             |
 # List of Precons
 
 |        Commander        | Colors | Power |                   Theme                    |
