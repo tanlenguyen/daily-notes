@@ -25,3 +25,4 @@
 | Bello, Bard of Brambles |   RG   |   4   |     Artifact and Enchantment Creatures     |
 |                         |        |       |                                            |
 #MtG
+3 more for Asmoranomardicadaistinaculdacar 
