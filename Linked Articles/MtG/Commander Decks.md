@@ -1,19 +1,20 @@
 # List of homebrew decks
 
-|            Commander            | Colors | Power |            Theme            |
-| :-----------------------------: | :----: | :---: | :-------------------------: |
-|     Astarion, the Decadent      |   WB   |   3   |         Life drain          |
-|     Karlach/Hardy Outlander     |   RG   |   3   |        Stompy combat        |
-|    Kastral, the Windcrested     |   WU   |   3   |         Bird tribal         |
-|    Pantlaza, the Sunfavored     |  WRG   |   3   |       Dinosaur tribal       |
-|   Shu-Yun, the Silent Tepest    |  WUR   |   3   |    Cantrip/Buff Voltron     |
-|   Yuriko, the Tiger's Shadow    |   UB   |   4   |          Ninjutsu           |
-|   Valduk, Keeper of the Flame   |   R    |   3   | Artifact/Aura heavy voltron |
-|   Sisay, Weatherlight Captain   | WUBRG  |   4   | Meme Legendary Superfriends |
-|          Vivi Orintier          |   UR   |   4   |        Spellslinger         |
-| Asmoranomardicadaistinaculdacar |   BR   |   3   |   Discard/Food Generation   |
-|      Admiral Beckett Brass      |  UBR   |   4   |        Pirate tribal        |
-|       Eshki Temur's Roar        |  URG   |       |                             |
+|            Commander            | Colors | Power |              Theme              |
+| :-----------------------------: | :----: | :---: | :-----------------------------: |
+|     Astarion, the Decadent      |   WB   |   2   |           Life drain            |
+|     Karlach/Hardy Outlander     |   RG   |   1   |          Stompy combat          |
+|    Kastral, the Windcrested     |   WU   |   1   |           Bird tribal           |
+|    Pantlaza, the Sunfavored     |  WRG   |   1   |         Dinosaur tribal         |
+|   Shu-Yun, the Silent Tempest   |  WUR   |   2   |      Cantrip/Buff Voltron       |
+| Yuriko, the Tiger's Shadow WIP  |   UB   |   2   |            Ninjutsu             |
+|   Valduk, Keeper of the Flame   |   R    |   1   |   Artifact/Aura heavy voltron   |
+| Sisay, Weatherlight Captain WIP | WUBRG  |   2   |   Meme Legendary Superfriends   |
+|          Vivi Orintier          |   UR   |   2   |          Spellslinger           |
+| Asmoranomardicadaistinaculdacar |   BR   |   1   |     Discard/Food Generation     |
+|      Admiral Beckett Brass      |  UBR   |   2   | Pirate tribal AKA Steal yo shit |
+|       Eshki Temur's Roar        |  URG   |   3   |  Creatures matter, Stomp City   |
+|   Lathril, Blade of the Elves   |   BG   |   1   |      Elf tribal/Life Drain      |
 # List of Precons
 
 |        Commander        | Colors | Power |                   Theme                    |
