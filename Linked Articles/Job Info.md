@@ -76,3 +76,10 @@ Clauses 1 through 3 are non-requirement clauses and are meant as informational a
 8. Operation - The operation clause details the requirements for the actual delivery of IT services. It includes managing service delivery processes, relationship processes, and resolution processes to ensure that services meet agreed-upon levels of quality and performance. This clause ensures that TSS can effectively manage and deliver IT services that align with business and customer needs.
 9. Performance Evaluation - TSS must monitor, measure, analyze, and evaluate the performance of the SMS. This clause requires conducting internal audits and management reviews to ensure the SMS remains effective and continues to meet TSS’s needs. Performance evaluation helps identify areas for improvement and ensures that the SMS is achieving its intended outcomes.
 10. Improvement - Continual improvement is a core principle of ISO 20000. This clause requires TSS to identify opportunities for improvement, implement necessary changes, and ensure that nonconformities are addressed effectively. Improvement activities help TSS enhance its SMS and service delivery over time.
+
+TSS HUB https://thecloudi.sharepoint.us/sites/TSSCollab/SitePages/ProjectHome.aspx
+
+ISO 20000 https://thecloudi.sharepoint.us/sites/TSSCollab/SitePages/ISO-20000.aspx
+
+TSS Writing https://thecloudi.sharepoint.us/teams/TSS-Process/Lists/TSS%20PRB%20Document%20Tracker/Issued%20&%20Posted%20Documents.aspx?viewid=163d9d61%2D2ca7%2D4b4d%2D9045%2D5c80b1fe8970
+
