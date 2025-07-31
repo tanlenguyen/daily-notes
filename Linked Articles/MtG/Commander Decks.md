@@ -26,3 +26,6 @@
 | Bello, Bard of Brambles |   RG   |   4   |     Artifact and Enchantment Creatures     |
 |                         |        |       |                                            |
 #MtG
+
+
+W245746-23jul25
