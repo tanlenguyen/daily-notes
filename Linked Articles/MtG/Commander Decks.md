@@ -21,7 +21,7 @@
 |     Kathril, Aspect Warper      |  WBG   |   4   | Graveyard value with keywords on creatures |     |
 |     Kalamax, the Stormsire      |  URG   |   4   |       Spellslinger, duplicate spells       |     |
 |        The Wise Mothman         |  BGU   |   4   |           Mutants, rad counters            |     |
-|         Dr. Madison Li          |  REU   |   4   |            Artifacts for energy            |     |
+|       Dr. Madison Li WIP        |  REU   |   4   |            Artifacts for energy            |     |
 |     Bello, Bard of Brambles     |   RG   |   4   |     Artifact and Enchantment Creatures     |     |
 | Yuriko, the Tiger's Shadow WIP  |   UB   |   2   |                  Ninjutsu                  |     |
 | Sisay, Weatherlight Captain WIP | WUBRG  |   2   |        Meme Legendary Superfriends         |     |
