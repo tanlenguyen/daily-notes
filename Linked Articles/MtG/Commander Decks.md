@@ -7,9 +7,7 @@
 |    Kastral, the Windcrested     |   WU   |   1   |           Bird tribal           |                                                   |
 |    Pantlaza, the Sunfavored     |  WRG   |   1   |         Dinosaur tribal         |                                                   |
 |   Shu-Yun, the Silent Tempest   |  WUR   |   2   |      Cantrip/Buff Voltron       |                                                   |
-| Yuriko, the Tiger's Shadow WIP  |   UB   |   2   |            Ninjutsu             |                                                   |
 |   Valduk, Keeper of the Flame   |   R    |   1   |   Artifact/Aura heavy voltron   |                                                   |
-| Sisay, Weatherlight Captain WIP | WUBRG  |   2   |   Meme Legendary Superfriends   |                                                   |
 |          Vivi Orintier          |   UR   |   2   |          Spellslinger           |                                                   |
 | Asmoranomardicadaistinaculdacar |   BR   |   1   |     Discard/Food Generation     |                                                   |
 |      Admiral Beckett Brass      |  UBR   |   2   | Pirate tribal AKA Steal yo shit |                                                   |
@@ -18,14 +16,15 @@
 |   Hearthhull, the World Seed    |  BRG   |   2   |            Land Sac             |                                                   |
 # List of Precons
 
-|        Commander        | Colors | Power |                   Theme                    |
-| :---------------------: | :----: | :---: | :----------------------------------------: |
-| Kathril, Aspect Warper  |  WBG   |   4   | Graveyard value with keywords on creatures |
-| Kalamax, the Stormsire  |  URG   |   4   |       Spellslinger, duplicate spells       |
-|    The Wise Mothman     |  BGU   |   4   |           Mutants, rad counters            |
-|     Dr. Madison Li      |  REU   |   4   |            Artifacts for energy            |
-| Bello, Bard of Brambles |   RG   |   4   |     Artifact and Enchantment Creatures     |
-|                         |        |       |                                            |
+|            Commander            | Colors | Power |                   Theme                    |     |
+| :-----------------------------: | :----: | :---: | :----------------------------------------: | :-: |
+|     Kathril, Aspect Warper      |  WBG   |   4   | Graveyard value with keywords on creatures |     |
+|     Kalamax, the Stormsire      |  URG   |   4   |       Spellslinger, duplicate spells       |     |
+|        The Wise Mothman         |  BGU   |   4   |           Mutants, rad counters            |     |
+|         Dr. Madison Li          |  REU   |   4   |            Artifacts for energy            |     |
+|     Bello, Bard of Brambles     |   RG   |   4   |     Artifact and Enchantment Creatures     |     |
+| Yuriko, the Tiger's Shadow WIP  |   UB   |   2   |                  Ninjutsu                  |     |
+| Sisay, Weatherlight Captain WIP | WUBRG  |   2   |        Meme Legendary Superfriends         |     |
 #MtG
 
 
