@@ -81,8 +81,6 @@ Windbrisk Heights
 
 
 # Mm'menom
-
-
 # Ureni, the Unwritten
 Ancient Silver Dragon
 Arena of Glory
@@ -144,3 +142,62 @@ Unclaimed Territory
 Utvara Hellkite
 Vandalblast
 Willowrush Verge
+# Rex, Cyber Hound
+Academy Ruins
+Access Tunnel
+Aetherflux Conduit
+Aethergeode Miner
+Aetheric Amplifier
+Aetherling
+Aethersquall Ancient
+Aetherstorm Roc
+Aethertide Whale
+Aqueous Form
+Arcanis the Omnipotent
+Bespoke Battlewagon
+Confiscation Coup
+Conjurer's Closet
+Conversion Apparatus
+Didn't Say Please
+Emissary of Soulfire
+Fabricate
+Faithful Mending
+Flux Channeler
+Ghostly Pilferer
+Gonti's Aether Heart
+Guide of Souls
+Horseshoe Crab
+Jace's Archivist
+Karn's Bastion
+Key to the City
+Localized Destruction
+Manifold Key
+Mechanized Production
+Mother of Runes
+Multiform Wonder
+Omen Hawker
+Pili-Pala
+Radstorm
+Razorfield Ripper
+Replicating Ring
+Riddle Gate Gargoyle
+Roil Cartographer
+Seat of the Synod
+Shielded Aether Thief
+Shipwreck Moray
+Solar Transformer
+Sphinx of the Revelation
+Static Prison
+Steady Progress
+Stone Idol Generator
+Surge Engine
+Tekuthal, Inquiry Dominus
+Tezzeret's Gambit
+Thirst for Knowledge
+Thrummingbird
+Vedalken Engineer
+Voltaic Construct
+Walking Ballista
+Windfall
+
+#
