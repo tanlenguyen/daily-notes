@@ -200,4 +200,16 @@ Voltaic Construct
 Walking Ballista
 Windfall
 
-#
+# Teval
+Cursecloth Wrappings
+Dread Return
+Eternal Witness
+Glacierwood Siege
+Insidious Roots
+Lost Monarch of Ifnir
+Reanimate
+Sidisi, Brood Tyrant
+Six
+The Gitrog Monster
+
+# 
