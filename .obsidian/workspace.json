@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/MtG/Buy List.md",
+                "file": "Job Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buy List"
+              "title": "Job Info"
             }
           }
         ],
@@ -222,10 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38a763d34dccded4",
+  "active": "fdf5950258bbe54f",
   "lastOpenFiles": [
-    "Linked Articles/MtG/Commander Decks.md",
     "Linked Articles/MtG/Buy List.md",
+    "Linked Articles/Mothership",
+    "Linked Articles/MtG/Commander Decks.md",
     "2025-05-02.md",
     "2025-05-13.md",
     "2025-06-18.md",
@@ -251,7 +252,6 @@
     "2025-06-25.md",
     "2025-06-19.md",
     "2025-06-16.md",
-    "2025-06-13.md",
     "Linked Articles/Warhammer/Custodes",
     "Linked Articles/Warhammer/Carcharodons",
     "Linked Articles/D&D/Untitled",
@@ -259,7 +259,6 @@
     "Linked Articles/Warhammer/Orks",
     "Linked Articles/D&D/Source Material/Humblewood Tales.pdf",
     "Linked Articles/D&D/Source Material/Humblewood Shock in Stormcrag.pdf",
-    "Linked Articles/D&D/Source Material/Humblewood Legend of the Bramblewell.pdf",
     "Pasted image 20250305102241.png",
     "Pasted image 20250305093336.png",
     "Pasted image 20241010140736.png",
