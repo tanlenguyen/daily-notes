@@ -34,7 +34,7 @@
 12. Touch up gold trim with Retributor Gold
 13. Any warpflame use base coat of white, add Hexwrath Flame on the bottom transition to Tesseract Glow.
 14. Druchi Violet on the khopeshes.
-15. Leadbelcher on weapon, harness trim, helmet conduits, and backpack pipes
+15. Leadbelcher on weapon, harness trim, helmet, conduits, and backpack pipes
 16. Warpstone Green, Soulstone Blue, and Spiritstone Red on all gem motifs
 17. Decals on shoulder pads
 18. Basing with AK Desert Sand and plants 
@@ -42,7 +42,7 @@
 
 ## Weapon Schemes
 ###  Warpflamer 
-Hexwraith Flame
+Hexwraith Flame transition to Tesseract Glow on top
 
 ### Soulreaper Cannon
 
