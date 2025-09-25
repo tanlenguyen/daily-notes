@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job Info.md",
+                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Info"
+              "title": "Painting Scheme"
             }
           }
         ],
@@ -222,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf5950258bbe54f",
+  "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "Linked Articles/Warhammer/Thousand Sons/File List.md",
+    "Job Info.md",
     "Linked Articles/MtG/Buy List.md",
     "Linked Articles/Mothership",
     "Linked Articles/MtG/Commander Decks.md",
@@ -234,7 +236,6 @@
     "2025-07-23.md",
     "2025-07-25.md",
     "2025-07-24.md",
-    "Job Info.md",
     "2025-07-22.md",
     "2025-07-21.md",
     "Linked Articles/Warhammer/3D File merchants.md",
