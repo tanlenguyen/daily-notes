@@ -47,7 +47,7 @@ Hexwraith Flame transition to Tesseract Glow on top
 ### Soulreaper Cannon
 
 # Tzaangor Shaman
-1. Baloth base skin
+1. Baharroth base skin
 2. Drakenhof Nightshade on skin
 3. Wraithbone on horns
 4. Ahriman Blue on inside of armor 
