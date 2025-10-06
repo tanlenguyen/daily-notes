@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Painting Scheme"
             }
+          },
+          {
+            "id": "dcadd64d6ab5dc5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38a763d34dccded4",
+  "active": "dcadd64d6ab5dc5b",
   "lastOpenFiles": [
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "Job Info.md",
