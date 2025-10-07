@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "Job Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Painting Scheme"
-            }
-          },
-          {
-            "id": "dcadd64d6ab5dc5b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Job Info"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,8 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcadd64d6ab5dc5b",
+  "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "Job Info.md",
     "Linked Articles/MtG/Buy List.md",
@@ -264,7 +253,6 @@
     "Linked Articles/FinOps/FinOps.md",
     "2025-06-25.md",
     "2025-06-19.md",
-    "2025-06-16.md",
     "Linked Articles/Warhammer/Custodes",
     "Linked Articles/Warhammer/Carcharodons",
     "Linked Articles/D&D/Untitled",
