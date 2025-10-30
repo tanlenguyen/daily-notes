@@ -212,4 +212,121 @@ Sidisi, Brood Tyrant
 Six
 The Gitrog Monster
 
-# 
+# Jon Irenicus
+1 Abhorrent Overlord
+
+1 Abyssal Persecutor
+
+1 Archfiend of the Dross
+
+1 Assault Suit
+
+1 Baleful Strix
+
+1 Black Market Connections
+
+1 Bloodchief Ascension
+
+1 Bloodthirsty Blade
+
+1 Buried Alive
+
+1 Crawlspace
+
+1 Demonic Taskmaster
+
+1 Desecration Elemental
+
+1 Despotic Scepter
+
+1 Diplomatic Immunity
+
+1 Dissipation Field
+
+1 Dreadship Reef
+
+1 Drinker of Sorrow
+
+1 Drown in the Loch
+
+1 Ebon Drake
+
+1 Ebonblade Reaper
+
+1 Evacuation
+
+1 Evil Eye of Orms-by-Gore
+
+1 Flesh Reaver
+
+1 Ghoulish Impetus
+
+1 Greater Harvester
+
+1 Hellish Rebuke
+
+1 Intervene
+
+1 Irenicus's Vile Duplication
+
+1 Jeering Homunculus
+
+1 Laser Screwdriver
+
+1 Liege of the Pit
+
+1 Master of the Feast
+
+1 Maze of Ith
+
+1 Muddle the Mixture
+
+1 Nefarox, Overlord of Grixis
+
+1 No Mercy
+
+1 Ophiomancer
+
+1 Pestilent Syphoner
+
+1 Phyrexian Metamorph
+
+1 Phyrexian Negator
+
+1 Phyrexian Obliterator
+
+1 Phyrexian Vatmother
+
+1 Plague Reaver
+
+1 Plaguecrafter
+
+1 Portal to Phyrexia
+
+1 Reanimate
+
+1 Rot-Curse Rakshasa
+
+1 Rotting Regisaur
+
+1 Rust Elemental
+
+1 Silent Arbiter
+
+1 Sink into Stupor
+
+1 Sol Talisman
+
+1 Spellbook
+
+1 Séance Board
+
+1 Taniwha
+
+1 Thought Eater
+
+1 Unearth
+
+1 Victimize
+
+1 Wretched Anurid

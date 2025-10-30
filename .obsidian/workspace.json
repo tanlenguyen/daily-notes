@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
+                "file": "Linked Articles/MtG/Buy List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Painting Scheme"
+              "title": "Buy List"
             }
           }
         ],
@@ -224,11 +224,11 @@
   },
   "active": "38a763d34dccded4",
   "lastOpenFiles": [
+    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/Warhammer/Thousand Sons/File List.md",
     "Linked Articles/FinOps/RCAs.md",
     "Linked Articles/Journaling/Quotes.md",
     "Job Info.md",
-    "Linked Articles/Warhammer/Thousand Sons/Painting Scheme.md",
     "Linked Articles/MtG/Buy List.md",
     "Linked Articles/Mothership",
     "Linked Articles/MtG/Commander Decks.md",
