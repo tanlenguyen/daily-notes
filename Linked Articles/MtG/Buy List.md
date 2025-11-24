@@ -308,3 +308,157 @@ The Gitrog Monster
 1 Victimize
 
 1 Wretched Anurid
+
+
+# Varina
+1 Adarkar Wastes
+
+1 Alhammarret's Archive
+
+1 Anguished Unmaking
+
+1 Arcane Sanctum
+
+1 Black Market Connections
+
+1 Bone Miser
+
+1 Bontu's Monument
+
+1 Buried Alive
+
+1 Carrion Feeder
+
+1 Caves of Koilos
+
+1 Cemetery Reaper
+
+1 Champion of the Perished
+
+1 Cleaver Skaab
+
+1 Cover of Darkness
+
+1 Cryptbreaker
+
+1 Cryptcaller Chariot
+
+1 Cursecloth Wrappings
+
+1 Deserted Beach
+
+1 Despark
+
+1 Diregraf Colossus
+
+1 Distant Melody
+
+1 Dreadhorde Invasion
+
+1 Eternal Skylord
+
+1 Exotic Orchard
+
+1 Fetid Heath
+
+1 Fracture
+
+1 Godless Shrine
+
+1 Grave Titan
+
+1 Gravecrawler
+
+1 Hallowed Fountain
+
+1 Isolated Chapel
+
+1 Kindred Discovery
+
+1 Knowledge Is Power
+
+1 Lazotep Chancellor
+
+1 Lazotep Plating
+
+1 Liliana's Mastery
+
+1 Liliana, Dreadhorde General
+
+1 Living Death
+
+1 Lost Monarch of Ifnir
+
+1 Master of Death
+
+1 Mikaeus, the Unhallowed
+
+1 Murderous Rider
+
+1 Necroduality
+
+1 Necromancer's Covenant
+
+1 Noxious Ghoul
+
+1 Patchwork Banner
+
+1 Path of Ancestry
+
+1 Phyrexian Altar
+
+1 Prairie Stream
+
+1 Prophet of the Scarab
+
+1 Raise the Palisade
+
+1 Reanimate
+
+1 Reflections of Littjara
+
+1 Relentless Dead
+
+1 Rise of the Dark Realms
+
+1 Rise of the Dread Marn
+
+1 Rot Hulk
+
+1 Secluded Courtyard
+
+1 Shepherd of Rot
+
+1 Singularity Rupture
+
+1 Space-Time Anomaly
+
+1 Temmet, Naktamun's Will
+
+1 Tomb Tyrant
+
+1 Unclaimed Territory
+
+1 Undead Augur
+
+1 Undead Warchief
+
+1 Underground River
+
+1 Varina, Lich Queen
+
+1 Victimize
+
+1 Void Rend
+
+1 Warren Soultrader
+
+1 Watery Grave
+
+1 Wilhelt, the Rotcleaver
+
+1 Wizened Mentor
+
+1 Wonder
+
+# Electro
