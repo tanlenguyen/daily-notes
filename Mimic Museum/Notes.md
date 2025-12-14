@@ -16,4 +16,4 @@ Jindrew goes into the Museum Cafe. Oryn finishes ritual casting Detect Magic. Sh
 
 Jindrew and Oryn meet up with Artemis and Grist. Artemis offers Grist that she will keep her items safe. Grist gives Artemis 3 copper pieces. Artemis pickpockets Grist to steal the ring. She puts the ring on, and she gets the sense that it has some magical ability, she will need to attune to it. We investigate and it seems like we have scoured everything here, but there is a ladder. She looks and it's a balcony into a the second floor, nothing seems really amiss, she just sees a hallway up there. 
 
-Artemis goes to the door to see what is going on in the dinosaur exhibit, she opens the door, and we get in. Oryn is inspecting a minotaur skeleton and Grist is investigating the dinosaur skeleton. Suddenly below
+Artemis goes to the door to see what is going on in the dinosaur exhibit, she opens the door, and we get in. Oryn is inspecting a minotaur skeleton and Grist is investigating the dinosaur skeleton. Suddenly they animate and being attacking us. Jindrew gets a brew that will let him burrow 60 feet, he gets the effects of the Hero's Feast spell, and one that inflicts poison. 
